@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UpiCRM - Universal WordPress CRM Solution v1.7.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-20 14:47+0100\n"
+"Last-Translator: focusweb <uri@focusweb.co.il>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ upicrm
+#: admin/upicrm_admin.php:62 admin/upicrm_admin_lists.php:63
+msgid "Show Leads"
+msgstr "Mostrar Iniciativas"
+
+# @ upicrm
+#: admin/upicrm_admin.php:67 admin/upicrm_settings.php:79
+msgid "General Settings"
+msgstr "Ajustes Generales"
+
+# @ upicrm
+#: admin/upicrm_admin.php:68 admin/upicrm_existing_fields.php:26
+msgid "Existing Fields"
+msgstr "Campos Existentes"
+
+# @ upicrm
+#: admin/upicrm_admin.php:69 admin/upicrm_existing_statuses.php:67
+msgid "Existing Statuses"
+msgstr "Estados Existentes"
+
+# @ upicrm
+#: admin/upicrm_admin.php:70 admin/upicrm_email_notifications.php:29
+msgid "Email Notifications"
+msgstr "Notificaciones de Email"
+
+# @ upicrm
+#: admin/upicrm_admin_edit_lead.php:10 admin/upicrm_email_notifications.php:9
+#: admin/upicrm_existing_fields.php:10 admin/upicrm_existing_statuses.php:10
+#: admin/upicrm_settings.php:13
+msgid "changes saved successfully"
+msgstr "cambios salvados satisfactoriamente"
+
+# @ upicrm
+#: admin/upicrm_admin_edit_lead.php:41
+msgid "Edit Lead"
+msgstr "Editar Iniciativa"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:25
+msgid "Reset all settings successfully"
+msgstr "Restaurar satisfactoriamente todos los ajustes"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:29
+msgid "Delete all leads successfully"
+msgstr "Borrar satisfactoriamente todas las iniciativas"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:67
+msgid "Choose Fields to display:"
+msgstr "Escoger Campos a mostrar:"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:139
+msgid "Remove this lead?"
+msgstr "¿Eliminar esta iniciativa?"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:168
+msgid "Saved successfully!"
+msgstr "¡Guardado satisfactoriamente!"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:188
+msgid "Request status update from lead owner successfully!"
+msgstr "¡Pedido satisfactorio de actualización de estado del dueño de la iniciativa!"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:210
+msgid "Export all leads data to Excel format"
+msgstr "Exportar todos los datos de iniciativas a formato Excel"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:211
+msgid "import all existing data into"
+msgstr "importar todos los datos existentes a"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:212 admin/upicrm_admin_lists.php:213
+msgid "are you sure?"
+msgstr "está seguro?"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:212
+msgid "reset all"
+msgstr "restaurar todo"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:213
+msgid "delete all"
+msgstr "borrar todo"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:232
+msgid "Leads Table"
+msgstr "Table de Iniciativas"
+
+# @ upicrm
+#: admin/upicrm_admin_lists.php:258
+msgid "Filter"
+msgstr "Filtro"
+
+# @ upicrm
+#: admin/upicrm_dashboard.php:71
+msgid "Weeks Ago"
+msgstr "Semanas Atrás"
+
+# @ upicrm
+#: admin/upicrm_dashboard.php:71
+msgid "Week Ago"
+msgstr "Semana Atrás"
+
+# @ upicrm
+#: admin/upicrm_dashboard.php:71
+msgid "This Week"
+msgstr "Esta Semana"
+
+# @ upicrm
+#: admin/upicrm_dashboard.php:176
+msgid "Dashboard"
+msgstr "Panel de Control"
+
+# @ upicrm
+#: admin/upicrm_dashboard.php:208
+msgid "Lead Overview"
+msgstr "Resumen de Iniciativa"
+
+# @ upicrm
+#: admin/upicrm_dashboard.php:212
+msgid "Live Stats"
+msgstr "Estadísticas en Vivo"
+
+# @ upicrm
+#: admin/upicrm_dashboard.php:216
+msgid "Social Network"
+msgstr "Red Social"
+
+# @ upicrm
+#: admin/upicrm_dashboard.php:220
+msgid "Revenue"
+msgstr "Ingresos"
+
+# @ upicrm
+#: admin/upicrm_email_notifications.php:48
+msgid "Content:"
+msgstr "Contenido:"
+
+# @ upicrm
+#: admin/upicrm_email_notifications.php:52
+msgid "Subject:"
+msgstr "Asunto:"
+
+# @ upicrm
+#: admin/upicrm_email_notifications.php:55
+msgid "CC:"
+msgstr "CC:"
+
+# @ upicrm
+#: admin/upicrm_email_notifications.php:58
+msgid "Variables:"
+msgstr "Variables"
+
+# @ upicrm
+#: admin/upicrm_existing_fields.php:43
+msgid "Add additional fields and datatypes to UpiCRM:"
+msgstr "Adicionar campos adicionales y tipos de datos a UpiCRM:"
+
+# @ upicrm
+#: admin/upicrm_existing_fields.php:46
+msgid "Add New field"
+msgstr "Adicionar nuevo campo"
+
+# @ upicrm
+#: admin/upicrm_existing_statuses.php:84
+msgid "Add additional status to UpiCRM:"
+msgstr "Adicionar estados adicionales a UpiCRM:"
+
+# @ upicrm
+#: admin/upicrm_existing_statuses.php:87
+msgid "Add New Status"
+msgstr "Adicionar Nuevo Estado"
+
+# @ upicrm
+#: admin/upicrm_settings.php:85
+msgid "Lead Management"
+msgstr "Gestión de Iniciativa"
+
+# @ upicrm
+#: admin/upicrm_settings.php:87
+msgid "Send all leads and updates to the following user:"
+msgstr "Enviar todas las iniciativas y actualizaciones al siguiente usuario:"
+
+# @ upicrm
+#: admin/upicrm_settings.php:98
+msgid "Leads are by default assigned to:"
+msgstr "Las iniciativas están asignadas por defecto a:"
+
+# @ upicrm
+#: admin/upicrm_settings.php:110
+msgid "Email format:"
+msgstr "Formato de Email:"
+
+# @ upicrm
+#: admin/upicrm_settings.php:115
+msgid "Distribute all leads and updated to additional email address (or multiple addresses separated by comma (,):"
+msgstr "Distribuir todas las iniciativas y enviar a direcciones de correo adicionales (o múltiples direcciones separadas por coma (,)):"
+
+# @ upicrm
+#: admin/upicrm_settings.php:117
+msgid "Change default \"from\" field for emails sent from"
+msgstr "Cambiar campo \"from\" por defecto para los emails enviados desde"
+
+# @ upicrm
+#: admin/upicrm_settings.php:118
+msgid "Email will be sent in the following format: &lt;name&gt; no-reply@yourdomain.com"
+msgstr "El email será enviado en el siguiente formato:&lt;name&gt; no-responder@sudominio.com"
+
+# @ upicrm
+#: admin/upicrm_settings.php:127
+msgid "Map existing forms fields to UpiCRM structured database field:"
+msgstr "Asignar los campos de las formas existentes al campo de base de datos estructurada de UpiCRM:"
+
+# @ upicrm
+#: admin/upicrm_settings.php:135 classes/upicrm_ui_builder.php:18
+msgid "Form Name"
+msgstr "Nombre de la Forma"
+
+# @ upicrm
+#: admin/upicrm_settings.php:136
+msgid "Fields"
+msgstr "Campos"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:11
+msgid "ID"
+msgstr "ID"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:12
+msgid "Time"
+msgstr "Tiempo"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:13
+msgid "User Agent"
+msgstr "Agente de Usuario"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:14
+msgid "Referer"
+msgstr "Referido"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:15
+msgid "IP"
+msgstr "IP"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:17
+msgid "Actions"
+msgstr "Acciones"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:19
+msgid "Assigned To"
+msgstr "Asignado A"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:20
+msgid "Lead Status"
+msgstr "Estado de la Iniciativa"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:21
+msgid "Lead Management Comment"
+msgstr "Comentario de Gestión de Iniciativa"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:74
+msgid "Request status update from lead owner"
+msgstr "Pedido de actualización de estado del dueño de la iniciativa"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:75
+msgid "Save"
+msgstr "Salvar"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:76
+msgid "Edit"
+msgstr "Editar"
+
+# @ upicrm
+#: classes/upicrm_ui_builder.php:77
+msgid "Remove"
+msgstr "Eliminar"
+
+# @ upicrm
+#: classes/upicrm_users.php:11
+msgid "UpiCRM options"
+msgstr "Opciones de UpiCRM"
+
+# @ upicrm
+#: classes/upicrm_users.php:15
+msgid "Permission"
+msgstr "Permisos"
+
+# @ upicrm
+#: classes/upicrm_users.php:18
+msgid "None"
+msgstr "Ninguno"
+
+# @ upicrm
+#: classes/upicrm_users.php:19
+msgid "UpiCRM User"
+msgstr "Usuario de UpiCRM "
+
+# @ upicrm
+#: classes/upicrm_users.php:20
+msgid "UpiCRM Admin"
+msgstr "Admin de UpiCRM "
+
+# @ upicrm
+#. translators: plugin header field 'Name'
+#: upicrm.php:0
+msgid "UpiCRM - Universal WordPress CRM Solution"
+msgstr "UpiCRM - Solución Universal de WordPress CRM"
+
+# @ upicrm
+#. translators: plugin header field 'PluginURI'
+#: upicrm.php:0
+msgid "http://www.upicrm.com?utm_source=plpage"
+msgstr "http://www.upicrm.com?utm_source=plpage"
+
+# @ upicrm
+#. translators: plugin header field 'Description'
+#: upicrm.php:0
+msgid "UpiCRM is a universal WordPress CRM solution can interface and extend the most popular WordPress contact forms plugins, and provide a complete CRM solution"
+msgstr "UpiCRM es una solución universal de WordPress CRM que puede extender los plugins más populares de formas de contacto de WordPress, y proveer una solución completa de CRM"
+
+# @ upicrm
+#. translators: plugin header field 'AuthorURI'
+#: upicrm.php:0
+msgid "http://www.upicrm.com"
+msgstr "http://www.upicrm.com"
+
+# @ upicrm
+#. translators: plugin header field 'Version'
+#: upicrm.php:0
+msgid "1.7.0"
+msgstr "1.7.0"

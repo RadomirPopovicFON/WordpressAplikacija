@@ -1,0 +1,521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UpiCRM - Universal WordPress CRM Solution v1.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-10 09:54:15+0000\n"
+"Last-Translator: admin <info@focusweb.co.il>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/upicrm_admin.php:65
+#: admin/upicrm_admin_lists.php:63
+#@ upicrm
+msgid "Show Leads"
+msgstr "Показать Заказчиков/клиентов\n"
+
+#: admin/upicrm_admin.php:72
+#: admin/upicrm_settings.php:79
+#@ upicrm
+msgid "General Settings"
+msgstr "Общие Настройки\n"
+
+#: admin/upicrm_admin.php:73
+#: admin/upicrm_existing_fields.php:26
+#@ upicrm
+msgid "Existing Fields"
+msgstr "Существующие поля\n"
+
+#: admin/upicrm_admin.php:74
+#: admin/upicrm_existing_statuses.php:67
+#@ upicrm
+msgid "Existing Statuses"
+msgstr "Существующие Статусы\n"
+
+#: admin/upicrm_admin.php:75
+#: admin/upicrm_email_notifications.php:29
+#@ upicrm
+msgid "Email Notifications"
+msgstr "Уведомления/сообщения по электронной почте\n"
+
+#: admin/upicrm_admin.php:76
+#: admin/upicrm_lead_route.php:39
+#@ upicrm
+msgid "Lead Routing"
+msgstr ""
+
+#: admin/upicrm_admin_lists.php:25
+#@ upicrm
+msgid "Reset all settings successfully"
+msgstr "Успешно cбросить все настройки\n"
+
+#: admin/upicrm_admin_lists.php:29
+#@ upicrm
+msgid "Delete all leads successfully"
+msgstr "успешно yдалить список Заказчиков/клиентов\n"
+
+#: admin/upicrm_admin_lists.php:67
+#@ upicrm
+msgid "Choose Fields to display:"
+msgstr "Выберите поля для показa:\n"
+
+#: admin/upicrm_admin_lists.php:139
+#: admin/upicrm_lead_route.php:227
+#@ upicrm
+msgid "Remove this lead?"
+msgstr "Удалить этого клиента/заказщика?\n"
+
+#: admin/upicrm_admin_lists.php:168
+#@ upicrm
+msgid "Saved successfully!"
+msgstr "Сохраненные успешно!\n"
+
+#: admin/upicrm_admin_lists.php:188
+#@ upicrm
+msgid "Status update request was sent successfully!"
+msgstr "Запрос на обновление статуса было успешно отправлено!\n"
+
+#: admin/upicrm_admin_lists.php:210
+#@ upicrm
+msgid "Export all leads data to Excel format"
+msgstr "Экспортировать все данные Заказчиков/клиентов в формат Excel\n"
+
+#: admin/upicrm_admin_lists.php:211
+#@ upicrm
+msgid "import all existing data into"
+msgstr "импортировать все существующие данные в\n"
+
+#: admin/upicrm_admin_lists.php:212
+#: admin/upicrm_admin_lists.php:213
+#@ upicrm
+msgid "are you sure?"
+msgstr "вы уверены?\n"
+
+#: admin/upicrm_admin_lists.php:212
+#@ upicrm
+msgid "reset all"
+msgstr "сбросить все\n"
+
+#: admin/upicrm_admin_lists.php:213
+#@ upicrm
+msgid "delete all"
+msgstr "удалить все\n"
+
+#: admin/upicrm_admin_lists.php:232
+#@ upicrm
+msgid "Leads Table"
+msgstr "таблицa Заказчиков/клиентов\n"
+
+#: admin/upicrm_admin_lists.php:258
+#@ upicrm
+msgid "Filter"
+msgstr "Фильтр\n"
+
+#: admin/upicrm_api.php:39
+#@ upicrm
+msgid "You have successfully changed lead status to:"
+msgstr "Вы успешно изменили  статус Заказчикa/клиентa:\n"
+
+#: admin/upicrm_api.php:58
+#@ upicrm
+msgid "You Have successfully assigned the lead to:"
+msgstr "Вы успешно назначели руковод Заказчикоm/клиентоm к:\n"
+
+#: admin/upicrm_api.php:73
+#@ upicrm
+msgid "Email notification was sent!"
+msgstr "Уведомление по электронной почте было отправлено!\n"
+
+#: admin/upicrm_api.php:81
+#@ upicrm
+msgid "You can also add some comment or important information for this lead if you wish:"
+msgstr "Вы также можете добавить комментарий или важную информацию для этого клиента/заказщика, если желаете:\n"
+
+#: admin/upicrm_api.php:87
+#@ upicrm
+msgid "Manage all leads"
+msgstr "руковод Заказчикоми/клиентоми\n"
+
+#: admin/upicrm_api.php:99
+#@ upicrm
+msgid "comment saved successfully"
+msgstr "комментарии успешно сохранены\n"
+
+#: admin/upicrm_dashboard.php:71
+#@ upicrm
+msgid "Weeks Ago"
+msgstr "Недели назад\n"
+
+#: admin/upicrm_dashboard.php:71
+#@ upicrm
+msgid "Week Ago"
+msgstr "Неделю назад\n"
+
+#: admin/upicrm_dashboard.php:71
+#@ upicrm
+msgid "This Week"
+msgstr "Эта Неделя\n"
+
+#: admin/upicrm_dashboard.php:176
+#@ upicrm
+msgid "Dashboard"
+msgstr "Приборная панель\n"
+
+#: admin/upicrm_dashboard.php:208
+#@ upicrm
+msgid "Lead Overview"
+msgstr "Ведущий Обзор\n"
+
+#: admin/upicrm_dashboard.php:212
+#@ upicrm
+msgid "Live Stats"
+msgstr "Live Stats\n"
+
+#: admin/upicrm_dashboard.php:216
+#@ upicrm
+msgid "Social Network"
+msgstr "Социальная Сеть\n"
+
+#: admin/upicrm_dashboard.php:220
+#@ upicrm
+msgid "Revenue"
+msgstr "Доход\n"
+
+#: admin/upicrm_edit_lead.php:10
+#: admin/upicrm_email_notifications.php:9
+#: admin/upicrm_existing_fields.php:10
+#: admin/upicrm_existing_statuses.php:10
+#: admin/upicrm_lead_route.php:17
+#: admin/upicrm_settings.php:13
+#@ upicrm
+msgid "changes saved successfully"
+msgstr "Изменения успешно сохранены\n"
+
+#: admin/upicrm_edit_lead.php:41
+#@ upicrm
+msgid "Edit Lead"
+msgstr "Редактировать клиента/заказщика\n"
+
+#: admin/upicrm_email_notifications.php:48
+#@ upicrm
+msgid "Content:"
+msgstr "Содержание:\n"
+
+#: admin/upicrm_email_notifications.php:52
+#@ upicrm
+msgid "Subject:"
+msgstr "Тема:\n"
+
+#: admin/upicrm_email_notifications.php:55
+#@ upicrm
+msgid "CC:"
+msgstr "CC:\n"
+
+#: admin/upicrm_email_notifications.php:58
+#@ upicrm
+msgid "Variables:"
+msgstr "Переменные:\n"
+
+#: admin/upicrm_existing_fields.php:43
+#@ upicrm
+msgid "Add additional fields and datatypes to UpiCRM:"
+msgstr "Добавить дополнительные поля и типы данных для UpiCRM:\n"
+
+#: admin/upicrm_existing_fields.php:46
+#@ upicrm
+msgid "Add New field"
+msgstr "Добавить поле\n"
+
+#: admin/upicrm_existing_statuses.php:84
+#@ upicrm
+msgid "Add additional status to UpiCRM:"
+msgstr "Добавить дополнительный статус для UpiCRM:\n"
+
+#: admin/upicrm_existing_statuses.php:87
+#@ upicrm
+msgid "Add New Status"
+msgstr "Добавить новый статус\n"
+
+#: admin/upicrm_lead_route.php:22
+#@ upicrm
+msgid "update saved successfully"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:55
+#@ upicrm
+msgid "Add New Lead Route"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:63
+#@ upicrm
+msgid "IF"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:88
+#@ upicrm
+msgid "THEN"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:92
+#: admin/upicrm_lead_route.php:170
+#@ upicrm
+msgid "Assign lead to"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:105
+#: admin/upicrm_lead_route.php:173
+#@ upicrm
+msgid "Change lead status to"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:118
+#@ upicrm
+msgid "Update Lead RouteSave Lead Route"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:138
+#@ upicrm
+msgid "Lead Routing Table"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:161
+#@ upicrm
+msgid "Field"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:164
+#@ upicrm
+msgid "Operator"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:167
+#@ upicrm
+msgid "Value"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:176
+#: classes/upicrm_ui_builder.php:17
+#@ upicrm
+msgid "Actions"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:194
+#: classes/upicrm_ui_builder.php:76
+#@ upicrm
+msgid "Edit"
+msgstr ""
+
+#: admin/upicrm_lead_route.php:195
+#: classes/upicrm_ui_builder.php:77
+#@ upicrm
+msgid "Remove"
+msgstr ""
+
+#: admin/upicrm_settings.php:85
+#@ upicrm
+msgid "Lead Management"
+msgstr " управления клиента/заказщика\n"
+
+#: admin/upicrm_settings.php:87
+#@ upicrm
+msgid "Send all leads and updates to the following user:"
+msgstr "Отправить список всеx Заказчиков/клиентов и обновлений  следующему пользователью:\n"
+
+#: admin/upicrm_settings.php:101
+#@ upicrm
+msgid "Leads are by default assigned to:"
+msgstr "в отсутствии перенастроек, руковод Заказчикоми/клиентоми :\n"
+
+#: admin/upicrm_settings.php:116
+#@ upicrm
+msgid "Email format:"
+msgstr "Формат E-mail:\n"
+
+#: admin/upicrm_settings.php:121
+#@ upicrm
+msgid "Distribute all leads and updated to additional email address (or multiple addresses separated by comma (,):"
+msgstr " Отправить список всеx Заказчиков/клиентов и обновлений  на дополнительный адрес электронной почты (или несколько адресов, разделенных запятыми (,):\n"
+
+#: admin/upicrm_settings.php:123
+#@ upicrm
+msgid "Change default \"from\" field for emails sent from"
+msgstr "Изменить настройку поле \\\"OT\\\"  в сообщениях, послоные от\n"
+
+#: admin/upicrm_settings.php:124
+#@ upicrm
+msgid "Email will be sent in the following format: &lt;name&gt; no-reply@yourdomain.com"
+msgstr "E-mail будет отправлено в следующем формате: & Lt; имя & GT; no-reply@yourdomain.com\n"
+
+#: admin/upicrm_settings.php:133
+#@ upicrm
+msgid "Map existing forms fields to UpiCRM structured database field:"
+msgstr "произвести существующиe поля на формах UpiCRM и структурироваать их B базy данных:\n"
+
+#: admin/upicrm_settings.php:141
+#: classes/upicrm_ui_builder.php:18
+#@ upicrm
+msgid "Form Name"
+msgstr "Имя Формы \n"
+
+#: admin/upicrm_settings.php:142
+#@ upicrm
+msgid "Fields"
+msgstr "Поля\n"
+
+#: classes/upicrm_leads_route.php:18
+#@ upicrm
+msgid "contains"
+msgstr ""
+
+#: classes/upicrm_leads_route.php:19
+#@ upicrm
+msgid "does not contain"
+msgstr ""
+
+#: classes/upicrm_leads_route.php:20
+#@ upicrm
+msgid "equals"
+msgstr ""
+
+#: classes/upicrm_leads_route.php:21
+#@ upicrm
+msgid "begins with"
+msgstr ""
+
+#: classes/upicrm_leads_route.php:22
+#@ upicrm
+msgid "smaller than"
+msgstr ""
+
+#: classes/upicrm_leads_route.php:23
+#@ upicrm
+msgid "bigger than"
+msgstr ""
+
+#: classes/upicrm_mails.php:65
+#@ upicrm
+msgid "You can assign this lead to the following UpiCRM users:"
+msgstr "Вы можете назначить руководство этим клиентом следующим пользователям UpiCRM:\n"
+
+#: classes/upicrm_mails.php:75
+#@ upicrm
+msgid "You can change the status of this lead to the one of the following:"
+msgstr "Вы можете изменить статус этого приводят к одной из следующих:\n"
+
+#: classes/upicrm_ui_builder.php:11
+#@ upicrm
+msgid "ID"
+msgstr "серийный номер\n"
+
+#: classes/upicrm_ui_builder.php:12
+#@ upicrm
+msgid "Time"
+msgstr "Время\n"
+
+#: classes/upicrm_ui_builder.php:13
+#@ upicrm
+msgid "User Agent"
+msgstr "Агент пользователя\n"
+
+#: classes/upicrm_ui_builder.php:14
+#@ upicrm
+msgid "Referer"
+msgstr "Референционный\n"
+
+#: classes/upicrm_ui_builder.php:15
+#@ upicrm
+msgid "IP"
+msgstr "IP\n"
+
+#: classes/upicrm_ui_builder.php:19
+#@ upicrm
+msgid "Assigned To"
+msgstr "Назначено /пазпределено\n"
+
+#: classes/upicrm_ui_builder.php:20
+#@ upicrm
+msgid "Lead Status"
+msgstr "Статус клиента/заказщика\n"
+
+#: classes/upicrm_ui_builder.php:21
+#@ upicrm
+msgid "Lead Management Comment"
+msgstr "коментарии упровления клиентом\n"
+
+#: classes/upicrm_ui_builder.php:74
+#@ upicrm
+msgid "Request status update from lead owner"
+msgstr "запросить настоящий статус клиента\n"
+
+#: classes/upicrm_ui_builder.php:75
+#@ upicrm
+msgid "Save"
+msgstr "Сохранить\n"
+
+#: classes/upicrm_users.php:11
+#@ upicrm
+msgid "UpiCRM options"
+msgstr "опции UpiCRM\n"
+
+#: classes/upicrm_users.php:15
+#@ upicrm
+msgid "Permission"
+msgstr "Разрешение\n"
+
+#: classes/upicrm_users.php:18
+#@ upicrm
+msgid "None"
+msgstr "отсуствует\n"
+
+#: classes/upicrm_users.php:19
+#@ upicrm
+msgid "UpiCRM User"
+msgstr "UpiCRM пользователь\n"
+
+#: classes/upicrm_users.php:20
+#@ upicrm
+msgid "UpiCRM Admin"
+msgstr "UpiCRM Админ\n"
+
+#. translators: plugin header field 'Name'
+#: upicrm.php:0
+#@ upicrm
+msgid "UpiCRM - Universal WordPress CRM Solution"
+msgstr "UpiCRM - Универсальный решение CRM   WordPress \n"
+
+#. translators: plugin header field 'PluginURI'
+#: upicrm.php:0
+#@ upicrm
+msgid "http://www.upicrm.com?utm_source=plpage"
+msgstr "http://www.upicrm.com?utm_source=plpage\n"
+
+#. translators: plugin header field 'Description'
+#: upicrm.php:0
+#@ upicrm
+msgid "UpiCRM is a universal WordPress CRM solution can interface and extend the most popular WordPress contact forms plugins, and provide a complete CRM solution"
+msgstr "UpiCRM является универсальным решением CRM под WordPress  может взаимодействовать и расширять наиболее популярные WordPress контактные формы плагины, а также обеспечить полное решение CRM\n"
+
+#. translators: plugin header field 'AuthorURI'
+#: upicrm.php:0
+#@ upicrm
+msgid "http://www.upicrm.com"
+msgstr "http://www.upicrm.com"
+
+#. translators: plugin header field 'Version'
+#: upicrm.php:0
+#@ upicrm
+msgid "1.9"
+msgstr ""
+

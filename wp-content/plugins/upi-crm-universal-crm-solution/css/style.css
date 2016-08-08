@@ -1,0 +1,326 @@
+body {
+    overflow-y: scroll;
+}
+
+#adminmenuwrap {
+    position: relative !important;
+}
+
+#main {
+    margin-left: 0;
+    padding-bottom: 0;
+    padding: 0;
+    min-height: 0;
+}
+
+#header>:first-child {
+    width: auto;
+}
+
+#header>div {
+    height: auto;
+    float: none;
+}
+
+.upicrm_lead_actions .glyphicon {
+    cursor: pointer;
+    margin-right: 4px;
+}
+
+h2 {
+    letter-spacing: -1px;
+    font-size: 22px;
+    margin: 10px 0;
+    line-height: normal;
+}
+
+#table-tabs {
+    border: 0px solid;
+    font-family: "Open Sans",Arial,Helvetica,Sans-Serif;
+}
+
+    #table-tabs select, option {
+        font-family: "Open Sans",Arial,Helvetica,Sans-Serif;
+        font-size: 1.2em;
+        width: 100%;
+    }
+    #table-tabs label.control-label {
+        padding-top: 5px;
+        font-size: 1.2em;
+    }
+    #table-tabs th {
+       font-size: 1.3em;
+       border-top: 1px solid #ddd;
+       border-left: 1px solid #ddd;
+       border-right: 1px solid #ddd;
+    }
+    #table-tabs tbody td {
+        border: 0px solid;
+        background-color: transparent;
+        padding: 0px;
+    }
+
+        #table-tabs tbody td.fields-container {
+            border: 0px solid;
+            background-color: white;
+            border-left: 1px solid #ddd;
+            border-right: 1px solid #ddd;
+            border-top: 1px solid #ddd;
+            border-bottom: 1px solid #ddd;
+        }
+
+            #table-tabs tbody td.fields-container table {
+                border-bottom: 1px solid #ddd;
+                border-right: 1px solid #ddd;
+            }
+
+                #table-tabs tbody td.fields-container table td {
+                    padding: 10px 8px 8px 10px;
+                    border-left: 1px solid #ddd;
+                    border-top: 1px solid #ddd;
+                    font-family: "Open Sans",Arial,Helvetica,Sans-Serif;
+                    letter-spacing: -1px;
+                }
+
+#tabs {
+    display: none;
+    background-color: transparent;
+    font-family: "Open Sans",Arial,Helvetica,Sans-Serif;
+    letter-spacing: -1px;
+}
+
+    #tabs div.ul-tab {
+        background-color: red;
+        position: relative;
+        height: 100%;
+        float: left;
+    }
+
+    #tabs div.container-tab {
+        background-color: green;
+        position: relative;
+        height: 100%;
+        float: left;
+    }
+
+.ui-tabs-vertical {
+    _width: 55em;
+}
+
+#tabscont {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    min-height: 100%;
+    height: 100%;
+}
+
+.ui-tabs-vertical .ui-tabs-nav {
+    padding: .0em .0em .0em .0em;
+    float: left;
+    width: 100%;
+    background-color: transparent !important;
+    border: 0px solid red !important;
+}
+
+    .ui-tabs-vertical .ui-tabs-nav li {
+        clear: left;
+        width: 100%;
+        border-bottom-width: 0px !important;
+        border-right-width: 0 !important;
+        margin: 0;
+        background-color: transparent !important;
+        position: relative;
+        right: -2px;
+        margin-bottom: -1px;
+    }
+
+        .ui-tabs-vertical .ui-tabs-nav li a {
+            display: block;
+            background-color: transparent !important;
+            border: 0px solid transparent !important;
+            width: 100%;
+            font-size: 1.2em;
+        }
+
+        .ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active {
+            padding-bottom: 0;
+            padding-right: .1em;
+            border-right-width: 0px;
+            border-right-width: 0px;
+            border-top: 1px solid #ddd;
+            border-bottom: 1px solid #ddd !important;
+            border-right: 1px solid white;
+            background-color: white !important;
+            margin-right: -1px;
+            margin-bottom: -1px;
+        }
+
+            .ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active a {
+                -webkit-box-shadow: -2px 0px 0 #57889c !important;
+                background-color: transparent !important;
+                width: 100%;
+                font-size: 1.2em;
+            }
+
+.ui-tabs-vertical .ui-tabs-panel {
+    padding: 1em;
+    float: left;
+    width: 100%;
+    border-left: 0px solid #ddd;
+    border-right: 0px solid #ddd;
+    border-top: 0px solid #ddd;
+    border-bottom: 0px solid #ddd;
+    background-color: white;
+    height: 100%;
+}
+
+.pointer-click {
+    cursor: pointer;
+}
+
+.num_list {
+    list-style-type: decimal;
+    margin-left: 35px;
+    margin-top: 5px;
+}
+
+.ajax_load {
+    background: url("../images/load2.gif");
+    height: 16px;
+    width: 16px;
+}
+
+.ajax_load2 {
+    background: url("../images/load2.gif");
+    height: 66px;
+    width: 66px;
+}
+
+#footer-thankyou,
+#footer-upgrade {
+    display: none;
+}
+
+.pad_form {
+    width: 150px;
+    margin-right: 10px;
+}
+
+.pad_form label {
+    display: block;
+}
+
+.pad_form select,
+.pad_form input {
+    width: 100%;
+}
+
+#user_tree_view ul {
+    margin-left: 16px;
+}
+
+#user_tree_view li {
+    margin-bottom: 0;
+    margin: 3px 0;
+}
+
+#user_tree_view .glyphicon {
+    cursor: pointer;
+}
+
+.hand {
+    cursor: pointer;
+}
+
+.opacity {
+    opacity: 0.5;
+}
+
+
+
+.text-wellcome {
+    line-height: 16pt;
+    margin-bottom: 12pt;
+}
+
+.text-username {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.text-numbers {
+    color: #f17349;
+    font-size: 12pt;
+}
+
+.bg-cell {
+    min-height: 110px;
+}
+
+.new-leads {
+    margin-bottom: 12pt;
+}
+
+.new-leads-title {
+    font-weight: 700;
+    padding: 10px;
+    background: #e3e3e3;
+}
+
+.new-leads-list {
+    height: 50px;
+    overflow: auto;
+}
+
+.new-leads-list ul {
+    padding: 0;
+    margin: 6px 0 0 8px;
+}
+
+.new-leads-list ul li {
+    padding: 1px 2px 1px 2px;
+    margin: 0;
+}
+
+.new-leads-list ul li span {
+    display: inline-block;
+    float: right;
+    font-style: italic;
+    color: #666;
+    padding-right: 12px;
+}
+
+.manage-export a {
+    display: block;
+    font-size: 22pt;
+    color: #f17349;
+    line-height: 23pt;
+    margin-bottom: 14pt;
+}
+
+.fa-width {
+    min-width: 45px;
+}
+
+table.dataTable thead>tr>th input[type="checkbox"] {
+    width: auto !important;
+}
+
+.a_blue {
+    color: #3276b1;
+}
+
+.nopad {
+    padding: 0 !important;
+}
+
+#edit_lead_form {
+    font-size: 16px;
+}
+
+#upicrm_datatable_wrapper select {
+        max-width: 150px;
+
+}

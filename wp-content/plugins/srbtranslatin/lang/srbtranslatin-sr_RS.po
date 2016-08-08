@@ -1,0 +1,143 @@
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SrbTransLatin\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/srbtranslatin\n"
+"POT-Creation-Date: 2012-12-12 22:20:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-07-09 19:02+0100\n"
+"Last-Translator: Predrag Supurović <private>\n"
+"Language-Team: pedja\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: serbian\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: srbtranslatin.php:572
+msgid "Options saved."
+msgstr "Options saved."
+
+#: srbtranslatin.php:588
+msgid "SrbTransLat Plugin Options"
+msgstr "Подешавање додатка SrbTransLat"
+
+#: srbtranslatin.php:597
+msgid "Default script:"
+msgstr "Подразумевано писмо:"
+
+#: srbtranslatin.php:600
+msgid "Cyrillic"
+msgstr "ћирилица"
+
+#: srbtranslatin.php:601
+msgid "Latin"
+msgstr "латиница"
+
+#: srbtranslatin.php:602
+msgid "Cyrillic, if visitor's browser accepts it"
+msgstr "ћирилица, ако је веб читач посетиоца дозвољава"
+
+#: srbtranslatin.php:605
+msgid ""
+"Set script that would be used as default, if user do not make script choice"
+msgstr ""
+"Изаберите писмо које ће бити понуђено као подразумевано, ако посетилац не "
+"изабере друго писмо"
+
+#: srbtranslatin.php:609
+msgid "Use cookie:"
+msgstr "Користи колачић:"
+
+#: srbtranslatin.php:610
+msgid "use cookie"
+msgstr "користи колачић"
+
+#: srbtranslatin.php:616
+msgid "Permalink options:"
+msgstr "Подешавање сталних линкова:"
+
+#: srbtranslatin.php:617
+msgid "transliterate title to permalink"
+msgstr "преслови наслов у стални линк"
+
+#: srbtranslatin.php:625
+msgid "Update Options"
+msgstr "Сними подешавање"
+
+#: srbtranslatin.php:625
+msgid "Script identificator:"
+msgstr "Ознака писма:"
+
+#: srbtranslatin.php:625
+msgid "Set what identificator for script selection will be used in urls."
+msgstr "Упишите ознаку који ће бити употребљена за ознаку писма у веб адреси."
+
+#: srbtranslatin_widget.php:10
+msgid "SrbTransLatin Script Selector"
+msgstr "Избор писма за SrbTransLatin"
+
+#: srbtranslatin_widget.php:125
+msgid "Title:"
+msgstr "Наслов:"
+
+#: srbtranslatin_widget.php:130
+msgid "show widget title"
+msgstr "прикажи наслов виџета"
+
+#: srbtranslatin_widget.php:165
+msgid "Cyrilic option title:"
+msgstr "Наслов за опцију ћирилице:"
+
+#: srbtranslatin_widget.php:171
+msgid "Latin option title:"
+msgstr "Наслов за опцију латинице:"
+
+#: srbtranslatin_widget.php:133
+msgid "Selection type:"
+msgstr "Врста приказа избора писма:"
+
+#: srbtranslatin_widget.php:135
+msgid "web links"
+msgstr "веб линкови"
+
+#: srbtranslatin_widget.php:136
+msgid "combo box"
+msgstr "падајући мени"
+
+#: srbtranslatin_widget.php:137
+msgid "one line"
+msgstr "једна линија"
+
+#: srbtranslatin_widget.php:142
+msgid "One line separator:"
+msgstr "сепаратор за приказ у једној линији"
+
+#: srbtranslatin_widget.php:142
+msgid "Script Selection"
+msgstr "Избор писма"
+
+#: srbtranslatin_widget.php:142
+msgid "Check to make blog remember users last script selection to cookie."
+msgstr "Укључи да се избор писма чува у колачићу веб читача корисника."
+
+#: srbtranslatin_widget.php:142
+msgid "Check to make permalinks in Latin alphabet regarding Serbian language."
+msgstr ""
+"Укључи креирање сталних линкова латинским писмом у сладу са српским језиком."
+
+#: srbtranslatin.php:142
+msgid ""
+"WARNING! You have WPML installed! Using 'lang' for url identificator for "
+"SrbTranslating will create conflicts with WMPL! Change identificator!"
+msgstr ""
+"УПОЗОРЕЊЕ! Имате инсталиран WPML додатак! Употреба ознаке писма 'lang' за "
+"SrbTransLatin ће направити проблем са WPML! Промените ознаку!"
+
+#: srbtranslatin_widget.php:142
+msgid "show only inactive script option"
+msgstr "прикажи само неизабрано писмо"
+
+#: srbtranslatin_widget.php:142
+msgid "Show only on WPML languages:"
+msgstr "Прикажи само за WPML језике:"

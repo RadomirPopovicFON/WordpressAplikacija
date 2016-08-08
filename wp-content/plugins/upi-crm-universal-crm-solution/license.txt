@@ -1,0 +1,28 @@
+UpiCRM Terms & Conditions
+All below terms and conditions refer to UpiCRM beta version as distributed on www.upicrm.com web site.
+UpiCRM grants you non-exclusive limited license to use the UpiCRM plugin and other products or through our website (http://www.upicrm.com) (the "products") in accordance with these Terms & Conditions (the "license) issued by UpiCRM.
+1. Plugin Licensing
+UpiCRM is licensed under the GNU general public license (http://www.gnu.org/licenses/gpl-3.0.txt).
+2. Automatic Upgrades
+Automatic Upgrades are available to users in accordance with the published/provided release schedule.
+In order to receive support and product upgrades, UpiCRM users must upgrade to the latest version currently available on upicrm.com web site.
+3. Ownership
+You may not claim intellectual or exclusive ownership rights to any of our products. All products are property of UpiCRM and are are provided "as is" without warranty of any kind, expressed or implied. We shall not be liable for any damages, including but not limited to, direct, indirect, special, incidental or consequential damages or losses that occur out of the use or inability to use our products.
+4. Site Content
+All site content, including imagery and documentation that is published on www.upicrm.com is the property of UpiCRM. Any replicated site content must be authorized in advanced. Content from this site shall not be used or exploited for commercial or non-commercial purposes without our prior written consent.
+5. Support
+UpiCRM offers WordPress plugins "as is" and with no implied meaning that they will function exactly as you would like or will be compatible with all 3rd party components and plugins. We do not offer support via email or otherwise support WordPress or other WordPress plugins we have not developed.
+Support is offered through contact forms on our web site http://www.upicrm.com/contact/ .
+
+Providing UpiCRM as a service or providing UpiCRM as part of a web hosting solution does not constitute an ongoing client/consultant relationship under these terms.
+6. Email communication with UpiCRM users
+UpiCRM may on occasion send you email notifications related to your UpiCRM usage and/or beta program/ product upgrades. These transactional emails may include notification of version changes, changes to our terms and conditions and other transactional emails related to UpiCRM.
+By using UpiCRM you agree to receive these transactional emails.
+7. Warranty
+Our plugin is guaranteed to function on a clean installation of WordPress using the default WordPress theme. We do not guarantee it will function with all 3rd party plugins, themes or with all web browsers. We are not responsible for any plugin or theme compatibility conflicts that may occur. It is our policy to support our products as best we can and we will provide support for 3rd party plugin conflicts at our discretion or as time allows. We are not responsible for any data loss that may occur as a result of installing this plugin.
+8. Privacy
+We reserve the right to change product status at any time for any reason. 
+We will absolutely never sell or share your personal with 3rd parties. All data we collect will be used for internal purposes only.
+12. General
+The preceding terms & conditions govern the usage of UpiCRM between you the user and UpiCRM. By using our product you acknowledge that you have read, understood, and agree with our terms & conditions. Please notify us prior to using our product if you disagree with any of our terms & conditions. We reserve the right to alter these terms and conditions at any time for any reason.
+Updated: December 25, 2014 2:54 PM

@@ -1,0 +1,20 @@
+Bazaar Lite Changelog
+
+- Version 1.2.1 - Released: 15.06.2016
+
+-- Updated : WooCommerce templates.
+-- Added : WooCommerce dashboard layout.
+-- Added : Slideshow height setting.
+
+- Version 1.2.0 - Released: 05.06.2016
+
+-- Fixed : 'More' term between the post thumbnail and the summary.
+
+- Version 1.1.9 - Released: 28.05.2016
+
+-- Fixed : Missing url option on first slide.
+
+- Version 1.1.7 - Released: 27.05.2016
+
+-- Added : Optional slideshow on homepage.
+-- Fixed : Breadcrumb on homepage.

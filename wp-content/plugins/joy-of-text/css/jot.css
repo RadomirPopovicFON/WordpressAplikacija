@@ -1,0 +1,178 @@
+.jot-section-header {
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.jot-group-list-tab {
+    width:100%;
+   
+}
+
+.jot-formtab {
+    width:70%;
+    
+}
+
+.jot-group-add-buttons {
+     display:inline-block;    
+}
+
+#jot-group-add-fields-form {
+    width:70%;
+}
+
+#jot-group-list-tab tbody tr:hover {
+    background-color: orange;
+    cursor: pointer;
+}
+
+
+.jot-group-list:nth-of-type(even) {
+  background-color:#fffff0;
+}
+
+.jot-group-list:nth-of-type(odd) {
+  background-color:#DCDCDC;
+} 
+
+
+
+.jot-member-list {
+  background-color:#d1cdc4;
+} 
+
+.jot-member-add {
+  background-color:#B0C4DE;
+} 
+
+.jot-td-l {
+    text-align:left;
+}
+
+.jot-td-c {
+    text-align:center;
+}
+
+.jot-td-r {
+    text-align:right;
+}
+
+.jot-td-mem-actions {
+    width:70px;
+}
+
+#jot-sendstatus-div{
+    
+    border:1px;
+    width:70%;
+    height: 160px;
+    overflow: auto;
+}
+
+#jot-sendstatustab {
+    width:100%;
+    background-color:#B0C4DE;
+    border-collapse: separate;
+    border-spacing: 1px;   
+}
+
+#jot-sendstatustab td{
+    padding: 1px;
+    background-color:#D3D3D3;
+}
+
+.jot-grouplist-div {
+    /*border: 1px solid black;*/
+    width:100%;
+    height: 95px;
+    overflow: auto;
+}
+
+
+.jot-groupmem-div {
+    /*border: 1px solid black;*/
+    height: 300px;
+    overflow: auto;
+}
+
+#jot-group-list-tab th{
+    background-color:#456789;
+    color:#FFFFFF;
+}
+
+.jot-mem-table-headers{
+    /*width:100%;*/ 
+    background-color:#456789;
+    color:#FFFFFF;
+}
+
+
+#tabgroupmembers {
+   
+    
+}
+
+.jot-messagered{
+    color:red;
+    font-weight: bold;
+}
+
+.jot-messagegreen{
+    color:green;
+    font-weight: bold;
+}
+
+.jot-messageblack {
+    color:black;
+    font-weight: bold;
+}
+
+.divider{
+    width:10px;
+    height:auto;
+    display:inline-block;    
+}
+
+
+
+.jot-pagination-tab {
+    width:100%;
+}
+
+.jot-pagination-tab tr{
+    padding-top:2px;
+    margin-top:10px;
+    padding:10px;
+}
+
+.paginated-links a {
+    background:#FFFFFF;
+    color:#000;
+    margin-right:0.2em;
+    padding:0.2em 0.2em;
+    text-decoration:none;
+}
+
+.paginated-links .current {
+    background:#FFCCFF;
+    color:#000;    
+    margin-right:0.2em;
+    padding:0.2em 0.2em;
+    text-decoration:none;
+}
+
+.imageborder {
+    border-radius: 25px;
+    border: 4px solid cadetblue;
+    padding: 20px;
+    
+}
+
+#jot-navlist li
+{
+display: inline;
+list-style-type: none;
+padding-left: 5px;
+padding-right: 5px;
+}

@@ -1,0 +1,449 @@
+# Translation of Twenty Fourteen in Serbian
+# This file is distributed under the same license as the Twenty Fourteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-04-23 17:01:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Twenty Fourteen\n"
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "Са поносом покреће %s"
+
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Дневне архиве: %s"
+
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Месечне архиве: %s"
+
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Годишње архиве: %s"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "Вордпресова екипа"
+
+#: comments.php:36 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Новији коментари &rarr;"
+
+#: comments.php:35 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Старији коментари"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Затворено за коментаре."
+
+#: category.php:20
+msgid "Category Archives: %s"
+msgstr "Архиве категорија: %s"
+
+#: comments.php:34 comments.php:52
+msgid "Comment navigation"
+msgstr "Кретање коментара"
+
+#: comments.php:27
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Једно мишљење на &#0132;%2$s&#0147;"
+msgstr[1] "%1$s мишљења на &#0132;%2$s&#0147;"
+msgstr[2] "%1$s мишљења на &#0132;%2$s&#0147;"
+
+#: tag.php:22
+msgid "Tag Archives: %s"
+msgstr "Архиве ознака: %s"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Резултати претраживања за: %s"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Ништа није пронађено"
+
+#: header.php:48
+msgid "Search"
+msgstr "Претрага"
+
+#: archive.php:40 taxonomy-post_format.php:51
+msgid "Archives"
+msgstr "Архиве"
+
+#: inc/widgets.php:127 inc/widgets.php:172
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Наставите са читањем <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:53 content-audio.php:53 content-gallery.php:53
+#: content-image.php:53 content-link.php:53 content-page.php:22
+#: content-quote.php:53 content-video.php:53 content.php:61 image.php:54
+msgid "Pages:"
+msgstr "Стране:"
+
+#: content-aside.php:40 content-audio.php:40 content-gallery.php:40
+#: content-image.php:40 content-link.php:40 content-page.php:28
+#: content-quote.php:40 content-video.php:40 content.php:42 image.php:34
+#: page-templates/contributors.php:35
+msgid "Edit"
+msgstr "Уреди"
+
+#: inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr "Следеће &rarr;"
+
+#: inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr "&larr; Претходно"
+
+#: functions.php:495
+msgid "Page %s"
+msgstr "Страна %s"
+
+#: inc/template-tags.php:85
+msgid "Post navigation"
+msgstr "Кретање чланака"
+
+#: header.php:52
+msgid "Primary Menu"
+msgstr "Примарни изборник"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Скочи на садржај"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:38 inc/widgets.php:194
+msgid "Leave a comment"
+msgstr "Оставите коментар"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Спремни сте да објавите свој први чланак? <a href=\"%1$s\">Започните овде</a>."
+
+#: inc/template-tags.php:109
+msgid "Sticky"
+msgstr "Лепљиво"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Није пронађено"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Изгледа да ништа није пронађено на овом месту. Можда да покушате претраживање?"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y."
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y."
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "Сви чланци од %s"
+
+#: content-aside.php:17 content-audio.php:17 content-featured-post.php:28
+#: content-gallery.php:17 content-image.php:17 content-link.php:17
+#: content-quote.php:17 content-video.php:17 content.php:19
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:38 inc/widgets.php:194
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: content-aside.php:37 content-audio.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:37 content-quote.php:37
+#: content-video.php:37 content.php:38 inc/widgets.php:194
+msgid "% Comments"
+msgstr "% коментара"
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Жао нам је, али ништа не одговара вашем упиту. Молимо вас да покушате поново са другим кључним речима."
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Изгледа да не можемо да пронађемо оно што сте тражили. Можда ће претраживање помоћи."
+
+#: functions.php:83
+msgid "Top primary menu"
+msgstr "Примарни изборник на врху"
+
+#: functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr "Секундарни изборник у левој бочној траци"
+
+#: functions.php:171
+msgid "Primary Sidebar"
+msgstr "Примарна бочна трака"
+
+#: functions.php:173
+msgid "Main sidebar that appears on the left."
+msgstr "Примарна бочна трака која се појављује са леве стране."
+
+#: functions.php:180
+msgid "Content Sidebar"
+msgstr "Садржај-бочна трака"
+
+#: functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr "Додатна бочна трака која се појављује са десне стране."
+
+#: functions.php:189
+msgid "Footer Widget Area"
+msgstr "Простор за виџете у подножју"
+
+#: functions.php:191
+msgid "Appears in the footer section of the site."
+msgstr "Појављује се у одељку подножја вашег веб места."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:213
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:258
+msgid "Previous"
+msgstr "Претходно"
+
+#: functions.php:259
+msgid "Next"
+msgstr "Следеће"
+
+#: functions.php:376
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] "%d чланак"
+msgstr[1] "%d чланка"
+msgstr[2] "%d чланака"
+
+#: image.php:65
+msgid "Previous Image"
+msgstr "Претходна слика"
+
+#: image.php:66
+msgid "Next Image"
+msgstr "Следећа слика"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+msgid "Twenty Fourteen requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fourteen захтева издање Вордпреса најмање 3.6. Користите издање %s. Молимо вас да ажурирате и покушате поново."
+
+#: inc/customizer.php:34 inc/customizer.php:35
+msgid "Background may only be visible on wide screens."
+msgstr "Позадина може бити видљива само на широком екранима."
+
+#: inc/customizer.php:24
+msgid "Site Title Color"
+msgstr "Боја наслова веб места"
+
+#: inc/customizer.php:27
+msgid "Display Site Title &amp; Tagline"
+msgstr "Прикажи наслов и поднаслов веб места"
+
+#: inc/customizer.php:40 inc/featured-content.php:403
+msgid "Featured Content"
+msgstr "Издвојени садржај"
+
+#: inc/customizer.php:41 inc/featured-content.php:404
+msgid "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr "Користите <a href=\"%1$s\">ознаку</a> да бисте издвојили своје чланке. Уколико нема чланака са ознаком, уместо тога ће се приказивати <a href=\"%2$s\">лепљиви чланци</a>."
+
+#: inc/customizer.php:56
+msgid "Layout"
+msgstr "Распоред"
+
+#: inc/customizer.php:60
+msgid "Grid"
+msgstr "Мрежа"
+
+#: inc/customizer.php:61
+msgid "Slider"
+msgstr "Приказ слајдова"
+
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 1.5)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/customizer.php:105
+msgid "Twenty Fourteen"
+msgstr "Twenty Fourteen"
+
+#: inc/customizer.php:109
+msgid "Enhance your site design by using <a href=\"%s\">Featured Images</a> for posts you&rsquo;d like to stand out (also known as post thumbnails). This allows you to associate an image with your post without inserting it. Twenty Fourteen uses featured images for posts and pages&mdash;above the title&mdash;and in the Featured Content area on the home page."
+msgstr "Побољшајте изгле свог веб места користећи <a href=\"%s\">Издвојене слике</a> за чланке за које желите да се истичу (такође познато и као умањене слике чланака). Ово вам омогућава да повежете слике са својим чланком без уметања. Twenty Fourteen користи издвојене слике за чланке и стране&mdash;изнад наслова&mdash;и у одељку Издвојени садржај на почетној страници."
+
+#: inc/customizer.php:110
+msgid "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">Twenty Fourteen documentation</a>."
+msgstr "За детаљно упутство и још савета и трикова, посетите <a href=\"%s\">документацију теме Twenty Fourteen</a>."
+
+#: inc/featured-content.php:426
+msgid "Tag Name"
+msgstr "Име ознаке"
+
+#: inc/featured-content.php:431
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Не приказуј ознаку на предњем делу."
+
+#: inc/template-tags.php:58
+msgid "Posts navigation"
+msgstr "Кретање чланака"
+
+#: inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr "<span class=\"meta-nav\">Објављено у</span>%title"
+
+#: inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Претходни чланак</span>%title"
+
+#: inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Следећи чланак</span>%title"
+
+#: inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr "Twenty Fourteen пролазни виџет"
+
+#: inc/widgets.php:79 taxonomy-post_format.php:30
+msgid "Asides"
+msgstr "Са стране"
+
+#: inc/widgets.php:54 taxonomy-post_format.php:33
+msgid "Images"
+msgstr "Слике"
+
+#: inc/widgets.php:58 taxonomy-post_format.php:36
+msgid "Videos"
+msgstr "Видео записи"
+
+#: inc/widgets.php:62 taxonomy-post_format.php:39
+msgid "Audio"
+msgstr "Звучни записи"
+
+#: inc/widgets.php:66 taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr "Цитати"
+
+#: inc/widgets.php:70 taxonomy-post_format.php:45
+msgid "Links"
+msgstr "Везе"
+
+#: inc/widgets.php:74 taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr "Галерије"
+
+#: inc/widgets.php:162
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] "Ова галерија садржи <a href=\"%1$s\" rel=\"bookmark\">%2$s фотографију</a>."
+msgstr[1] "Ова галерија садржи <a href=\"%1$s\" rel=\"bookmark\">%2$s фотографије</a>."
+msgstr[2] "Ова галерија садржи <a href=\"%1$s\" rel=\"bookmark\">%2$s фотографија</a>."
+
+#: inc/widgets.php:255
+msgid "Title:"
+msgstr "Наслов:"
+
+#: inc/widgets.php:258
+msgid "Number of posts to show:"
+msgstr "Број чланака за приказивање:"
+
+#: inc/widgets.php:261
+msgid "Post format to show:"
+msgstr "Облик чланка за приказивање:"
+
+#. Description of the plugin/theme
+msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
+msgstr "У 2014, наша подразумевана тема вам дозвољава да правите одговарајућа магазинска веб места са слатким, модерним изгледом. Издвојите своји омиљени садржај почетне странице у мрежу или приказ слајдова. Користите три простора за виџете да бисте прилагодили своје веб место и промените распоред свог веб места са шаблоном за страну пуне ширине и страном сарадника да бисте приказали ваше ауторе. Прављење магазинског веб места са Вордпресом никада није било једноставније."
+
+#. Template Name of the plugin/theme
+msgid "Contributor Page"
+msgstr "Страна сарадника"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Страна пуне ширине"
+
+#: inc/customizer.php:42 inc/customizer.php:108 inc/featured-content.php:405
+#: inc/featured-content.php:414 inc/featured-content.php:474
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr "izdvojeno"
+
+#: inc/widgets.php:36
+msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
+msgstr "Користите овај виџет да наведете своје скорашње чланке облика Са стране, Цитат, Видео запис, Звучни запис, Слика, Галерија и Веза."
+
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 1.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://sr.wordpress.org/"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyfourteen/"
+msgstr "https://wordpress.org/themes/twentyfourteen/"
+
+#: inc/customizer.php:31 inc/customizer.php:32
+msgid "May only be visible on wide screens."
+msgstr "Mоже бити видљиво само на широком екранима."
+
+#: inc/customizer.php:108
+msgid "The home page features your choice of up to 6 posts prominently displayed in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed instead."
+msgstr "Почетна страница показује ваш избор од највише 6 чланака који су видно приказани у мрежи или приказу слајдова а који су контролисани <a href=\"%1$s\">ознаком</a>; можете променити ознаку и распоред под <a href=\"%2$s\">Изглед &rarr; Прилагоди</a>. Уколико ознака нема чланака, уместо тога ће се приказати <a href=\"%3$s\">лепљиви чланци</a>."
+
+#: inc/widgets.php:55
+msgid "More images"
+msgstr "Још слика"
+
+#: inc/widgets.php:59
+msgid "More videos"
+msgstr "Још видео записа"
+
+#: inc/widgets.php:63
+msgid "More audio"
+msgstr "Још звучних записа"
+
+#: inc/widgets.php:67
+msgid "More quotes"
+msgstr "Још цитата"
+
+#: inc/widgets.php:71
+msgid "More links"
+msgstr "Још веза"
+
+#: inc/widgets.php:75
+msgid "More galleries"
+msgstr "Још галерија"
+
+#: inc/widgets.php:80
+msgid "More asides"
+msgstr "Још са стране"
+
+#. translators: used with More archives link
+#: inc/widgets.php:206
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: %s: Name of current post
+#: content-aside.php:48 content-audio.php:48 content-gallery.php:48
+#: content-image.php:48 content-link.php:48 content-quote.php:48
+#: content-video.php:48 content.php:56 inc/template-tags.php:222
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Наставите са читањем %s <span class=\"meta-nav\">&rarr;</span>"

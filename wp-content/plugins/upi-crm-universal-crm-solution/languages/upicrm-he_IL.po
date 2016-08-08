@@ -1,0 +1,1102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UpiCRM - Universal WordPress CRM Solution v1.9.8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-04-26 08:56:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/upicrm_integrations.php:148
+#: admin/upicrm_lead_route.php:180
+#: classes/upicrm_ui_builder.php:17
+#@ upicrm
+msgid "Actions"
+msgstr "פעולות"
+
+#: admin/upicrm_existing_statuses.php:75
+#: admin/upicrm_settings.php:170
+#@ upicrm
+msgid "Add New Status"
+msgstr "הוספת סטטוס חדש"
+
+#: admin/upicrm_existing_fields.php:30
+#@ upicrm
+msgid "Add New field"
+msgstr "הוספת שדה חדש"
+
+#: admin/upicrm_existing_fields.php:27
+#: admin/upicrm_settings.php:149
+#@ upicrm
+msgid "Add additional fields and datatypes to UpiCRM:"
+msgstr "הוספת שדות נוספים לטבלת הלידים של UpiCRM"
+
+#: admin/upicrm_existing_statuses.php:72
+#: admin/upicrm_settings.php:166
+#@ upicrm
+msgid "Add additional status to UpiCRM:"
+msgstr "הוספת ססטוס חדש "
+
+#: classes/upicrm_ui_builder.php:19
+#@ upicrm
+msgid "Assigned To"
+msgstr "מנהל הליד"
+
+#: admin/upicrm_email_notifications.php:92
+#@ upicrm
+msgid "CC:"
+msgstr "לידיעה:"
+
+#: admin/upicrm_email_notifications.php:71
+#@ upicrm
+msgid "Change default \"from\" field for emails sent from"
+msgstr "בחרו את שם השולח להודעות שישלחו מאת"
+
+#: admin/upicrm_admin_lists.php:65
+#@ upicrm
+msgid "Choose Fields to display:"
+msgstr "בחרו שדות להצגה:"
+
+#: admin/upicrm_email_notifications.php:85
+#@ upicrm
+msgid "Content:"
+msgstr "תוכן"
+
+#: admin/upicrm_admin.php:103
+#@ upicrm
+msgid "Dashboard"
+msgstr "לוח הבקרה הראשי"
+
+#: admin/upicrm_admin_lists.php:28
+#@ upicrm
+msgid "Delete all leads successfully"
+msgstr "מחיקת כל הלידים הסתיימה בהצלחה"
+
+#: admin/upicrm_email_notifications.php:69
+#@ upicrm
+msgid "Distribute all leads and updated to additional email address (or multiple addresses separated by comma (,):"
+msgstr "שלחו פרטי לידים ועדכונים שוטפים לכתובות דואל נוספות (יש להפריד כתובות מייל בפסיקים):"
+
+#: admin/upicrm_admin_users.php:136
+#: admin/upicrm_integrations.php:164
+#: admin/upicrm_lead_route.php:198
+#: classes/upicrm_ui_builder.php:87
+#@ upicrm
+msgid "Edit"
+msgstr "עריכה"
+
+#: admin/upicrm_admin.php:174
+#@ upicrm
+msgid "Edit Lead"
+msgstr "עריכת ליד"
+
+#: admin/upicrm_admin.php:81
+#: admin/upicrm_admin.php:162
+#@ upicrm
+msgid "Email Notifications"
+msgstr "עריכת התראות דואר אלקטרוני"
+
+#: admin/upicrm_email_notifications.php:64
+#@ upicrm
+msgid "Email format:"
+msgstr "פורמט המייל"
+
+#: admin/upicrm_email_notifications.php:72
+#@ upicrm
+msgid "Email will be sent in the following format: &lt;name&gt; no-reply@yourdomain.com"
+msgstr "המיילים ישלחו בפורמט הבא: no-reply@yourdomain.com"
+
+#: admin/upicrm_admin.php:138
+#: admin/upicrm_settings.php:147
+#@ upicrm
+msgid "Existing Fields"
+msgstr "רשימת שדות קיימים"
+
+#: admin/upicrm_admin.php:150
+#: admin/upicrm_settings.php:164
+#@ upicrm
+msgid "Existing Statuses"
+msgstr "טבלת סטטוסים קיימים"
+
+#: admin/upicrm_settings.php:120
+#@ upicrm
+msgid "Fields"
+msgstr "שדות"
+
+#: admin/upicrm_admin_lists.php:149
+#@ upicrm
+msgid "Filter"
+msgstr "מסנן"
+
+#: admin/upicrm_settings.php:119
+#: classes/upicrm_ui_builder.php:18
+#@ upicrm
+msgid "Form Name"
+msgstr "שם הטופס"
+
+#: classes/upicrm_ui_builder.php:11
+#@ upicrm
+msgid "ID"
+msgstr "מספר מזהה"
+
+#: classes/upicrm_ui_builder.php:15
+#@ upicrm
+msgid "IP"
+msgstr "IP"
+
+#: admin/upicrm_email_notifications.php:33
+#@ upicrm
+msgid "Lead Management"
+msgstr "ניהול לידים"
+
+#: classes/upicrm_ui_builder.php:21
+#@ upicrm
+msgid "Lead Management Comment"
+msgstr "הערות לניהול הליד"
+
+#: admin/upicrm_dashboard.php:265
+#@ upicrm
+msgid "Lead Overview"
+msgstr "פרטי הליד"
+
+#: classes/upicrm_ui_builder.php:20
+#@ upicrm
+msgid "Lead Status"
+msgstr "סטטוס ליד"
+
+#: admin/upicrm_admin_lists.php:120
+#@ upicrm
+msgid "Leads Table"
+msgstr "רשימת הלידים"
+
+#: admin/upicrm_email_notifications.php:49
+#@ upicrm
+msgid "Leads are by default assigned to:"
+msgstr "בחרו את המשתמש שלניהולו יועברו לידים חדשים"
+
+#: admin/upicrm_settings.php:111
+#@ upicrm
+msgid "Map existing forms fields to UpiCRM structured database field:"
+msgstr "מיפוי שדות של טפסים קיימים למבנה הנתונים של UpiCRM :"
+
+#: admin/upicrm_admin_users.php:72
+#: classes/upicrm_users.php:50
+#@ upicrm
+msgid "Permission"
+msgstr "הרשאות"
+
+#: classes/upicrm_ui_builder.php:14
+#@ upicrm
+msgid "Referer"
+msgstr "אתר מפנה"
+
+#: admin/upicrm_admin_users.php:135
+#: admin/upicrm_integrations.php:165
+#: admin/upicrm_lead_route.php:199
+#: classes/upicrm_ui_builder.php:88
+#@ upicrm
+msgid "Remove"
+msgstr "הסרה"
+
+#: admin/upicrm_admin_lists.php:337
+#: admin/upicrm_lead_route.php:231
+#@ upicrm
+msgid "Remove this lead?"
+msgstr "האם למחוק את הליד?"
+
+#: classes/upicrm_ui_builder.php:85
+#@ upicrm
+msgid "Request status update from lead owner"
+msgstr "בקשו עדכון סטטוס ממנהל הליד"
+
+#: admin/upicrm_admin_lists.php:23
+#@ upicrm
+msgid "Reset all settings successfully"
+msgstr "איפוס כל ההגדרות הסתיים בהצלחה"
+
+#: classes/upicrm_ui_builder.php:86
+#@ upicrm
+msgid "Save"
+msgstr "שמירה"
+
+#: admin/upicrm_admin_lists.php:376
+#: admin/upicrm_admin_lists.php:452
+#: admin/upicrm_admin_lists.php:473
+#@ upicrm
+msgid "Saved successfully!"
+msgstr "נשמר בהצלחה!"
+
+#: admin/upicrm_email_notifications.php:35
+#@ upicrm
+msgid "Send all leads and updates to the following user:"
+msgstr "שלחו את כל פרטי הלידים החדשים ועדכונים שוטפים למשתמש הבא:"
+
+#: admin/upicrm_email_notifications.php:89
+#@ upicrm
+msgid "Subject:"
+msgstr "נושא"
+
+#: admin/upicrm_dashboard.php:96
+#@ upicrm
+msgid "This Week"
+msgstr "השבוע"
+
+#: classes/upicrm_ui_builder.php:12
+#@ upicrm
+msgid "Time"
+msgstr "תאריך"
+
+#. translators: plugin header field 'Name'
+#: upicrm.php:0
+#@ upicrm
+msgid "UpiCRM - Universal WordPress CRM Solution"
+msgstr "UpiCRM -  ניהול לקוחות ולידים בוורדפרס - תוצרת כחול לבן"
+
+#: admin/upicrm_admin_users.php:75
+#: classes/upicrm_users.php:54
+#@ upicrm
+msgid "UpiCRM Admin"
+msgstr "מנהל UpiCRM"
+
+#: admin/upicrm_admin_users.php:74
+#: classes/upicrm_users.php:53
+#@ upicrm
+msgid "UpiCRM User"
+msgstr "משתמש UpiCRM"
+
+#. translators: plugin header field 'Description'
+#: upicrm.php:0
+#@ upicrm
+msgid "UpiCRM is a universal WordPress CRM solution can interface and extend the most popular WordPress contact forms plugins, and provide a complete CRM solution"
+msgstr "UpiCRM  - פתרון אוניברסלי לניהול לקוחות ולידים על וורדפרס.  המערכת מתממשקת לכל הטפסים השונים הקיימים באתר הוורדפרס שלכם על מנת לנהל באופן מרכזי ומתקדם את כל הלידים והלקוחות מהאתר שלכם. "
+
+#: classes/upicrm_users.php:46
+#@ upicrm
+msgid "UpiCRM options"
+msgstr "הגדרות UPiCRM"
+
+#: classes/upicrm_ui_builder.php:13
+#@ upicrm
+msgid "User Agent"
+msgstr "סוג דפדפן"
+
+#: admin/upicrm_email_notifications.php:95
+#@ upicrm
+msgid "Variables:"
+msgstr "משתנים:"
+
+#: admin/upicrm_dashboard.php:96
+#@ upicrm
+msgid "Week Ago"
+msgstr "לפני שבוע"
+
+#: admin/upicrm_dashboard.php:96
+#@ upicrm
+msgid "Weeks Ago"
+msgstr "שבועות קודמים"
+
+#: admin/upicrm_settings.php:98
+#: admin/upicrm_settings.php:104
+#@ upicrm
+msgid "are you sure?"
+msgstr "האם אתם בטוחים? "
+
+#: admin/upicrm_edit_lead.php:10
+#: admin/upicrm_email_notifications.php:9
+#: admin/upicrm_email_notifications.php:13
+#: admin/upicrm_existing_fields.php:10
+#: admin/upicrm_existing_statuses.php:10
+#: admin/upicrm_integrations.php:14
+#: admin/upicrm_lead_route.php:17
+#: admin/upicrm_settings.php:15
+#: admin/upicrm_settings.php:19
+#@ upicrm
+msgid "changes saved successfully"
+msgstr "השינויים נשמרו בהצלחה"
+
+#. translators: plugin header field 'AuthorURI'
+#: upicrm.php:0
+#@ upicrm
+msgid "http://www.upicrm.com"
+msgstr "http://www.upicrm.com"
+
+#. translators: plugin header field 'PluginURI'
+#: upicrm.php:0
+#@ upicrm
+msgid "http://www.upicrm.com?utm_source=plpage"
+msgstr "http://www.upicrm.com?utm_source=plpagehe"
+
+#: admin/upicrm_admin_lists.php:396
+#@ upicrm
+msgid "Status update request was sent successfully!"
+msgstr "בקשת עדכון סטטוס נשלחה בהצלחה."
+
+#: admin/upicrm_api.php:39
+#@ upicrm
+msgid "You have successfully changed lead status to:"
+msgstr "סטטוס הליד שונה בהצלחה ל: "
+
+#: admin/upicrm_api.php:58
+#@ upicrm
+msgid "You Have successfully assigned the lead to:"
+msgstr "הליד הופנה בהצלחה לניהול של: "
+
+#: admin/upicrm_api.php:73
+#@ upicrm
+msgid "Email notification was sent!"
+msgstr "מייל עדכון נשלח בהצלחה!"
+
+#: admin/upicrm_api.php:81
+#@ upicrm
+msgid "You can also add some comment or important information for this lead if you wish:"
+msgstr "ניתן להוסיף הערות חשובות או מידע חשוב לניהול הליד:"
+
+#: admin/upicrm_api.php:87
+#@ upicrm
+msgid "Manage all leads"
+msgstr "לניהול כל הלידים"
+
+#: admin/upicrm_api.php:99
+#@ upicrm
+msgid "comment saved successfully"
+msgstr "ההערה נשמרה בהצלחה"
+
+#: admin/upicrm_admin_users.php:17
+#: admin/upicrm_integrations.php:18
+#: admin/upicrm_lead_route.php:22
+#@ upicrm
+msgid "update saved successfully"
+msgstr "העדכון נשמר בהצלחה"
+
+#: admin/upicrm_lead_route.php:67
+#@ upicrm
+msgid "IF"
+msgstr "אם"
+
+#: admin/upicrm_lead_route.php:92
+#@ upicrm
+msgid "THEN"
+msgstr "אז"
+
+#: admin/upicrm_lead_route.php:96
+#: admin/upicrm_lead_route.php:174
+#@ upicrm
+msgid "Assign lead to"
+msgstr "שנה מנהל הליד ל"
+
+#: admin/upicrm_lead_route.php:109
+#: admin/upicrm_lead_route.php:177
+#@ upicrm
+msgid "Change lead status to"
+msgstr "שנה סטטוס ליד ל"
+
+#: admin/upicrm_lead_route.php:122
+#@ upicrm
+msgid "Update Lead RouteSave Lead Route"
+msgstr "עדכון כלל ניהול לידשמירת פרטי ניהול ליד"
+
+#: admin/upicrm_lead_route.php:142
+#@ upicrm
+msgid "Lead Routing Table"
+msgstr "טבלת כללי ניהול לידים אוטמטי"
+
+#: admin/upicrm_lead_route.php:165
+#@ upicrm
+msgid "Field"
+msgstr "שדה"
+
+#: admin/upicrm_lead_route.php:168
+#@ upicrm
+msgid "Operator"
+msgstr "אופרטור"
+
+#: admin/upicrm_lead_route.php:171
+#@ upicrm
+msgid "Value"
+msgstr "ערך"
+
+#: classes/upicrm_leads_route.php:18
+#@ upicrm
+msgid "contains"
+msgstr "מכיל"
+
+#: classes/upicrm_leads_route.php:20
+#@ upicrm
+msgid "equals"
+msgstr "שווה"
+
+#: classes/upicrm_leads_route.php:21
+#@ upicrm
+msgid "begins with"
+msgstr "מתחיל ב"
+
+#: classes/upicrm_leads_route.php:22
+#@ upicrm
+msgid "smaller than"
+msgstr "קטן מ"
+
+#: classes/upicrm_leads_route.php:23
+#@ upicrm
+msgid "bigger than"
+msgstr "גדול מ"
+
+#: classes/upicrm_mails.php:67
+#@ upicrm
+msgid "You can assign this lead to the following UpiCRM users:"
+msgstr "ניתן להפנות את הליד לניהול אחד ממשתמשי UpiCRM  : "
+
+#: classes/upicrm_mails.php:106
+#@ upicrm
+msgid "You can change the status of this lead to the one of the following:"
+msgstr "ניתן לשנות את סטטוס הליד לאחד מהערכים הבאים:"
+
+#: admin/upicrm_admin.php:82
+#: admin/upicrm_admin.php:197
+#@ upicrm
+msgid "Auto Lead Management"
+msgstr "ניהול  לידים ממוכן"
+
+#: admin/upicrm_lead_route.php:43
+#@ upicrm
+msgid "Add New lead routing rule"
+msgstr "הוספת כלל ניהול ליד"
+
+#: admin/upicrm_lead_route.php:49
+#@ upicrm
+msgid "Important notes:"
+msgstr "מידע חשוב:"
+
+#: admin/upicrm_admin.php:85
+#: admin/upicrm_admin.php:221
+#@ upicrm
+msgid "Users Center"
+msgstr "ניהול משתמשים"
+
+#: admin/upicrm_admin_lists.php:411
+#@ upicrm
+msgid "Lead retransmission success!"
+msgstr "שידור הפרטים בוצע בהצלחה!"
+
+#: admin/upicrm_integrations.php:37
+#@ upicrm
+msgid ""
+"UpiCRM can act as an aggregator of leads from multiple / remote web sites.\n"
+"This means that a UpiCRM master can receive leads from any other UpiCRM \"slave\" , as long as the connection (pairing) is performed.\n"
+"UpiCRM can work in complete orchestration, receive / send leads from and to multiple servers at the same time.\n"
+"In order to get your required API key, please visit <a href=\"http://www.upicrm.com/apikey\" target=\"_blank\">http://www.upicrm.com/apikey</a> <br />\n"
+"More documentation can be found on: <a href=\"http://www.upicrm.com/docs\" target=\"_blank\">http://www.upicrm.com/docs</a>"
+msgstr ""
+"איסוף מרוכז של לידים משרתים מרובים: כאן תוכלו להגדיר שרת \\\"שולח\\\" או שרת \\\"מקבל\\\" - כל פרטי הלידים שיתקבלו בשרתים מרוחקים - ישודרו למקום אחד מרכזי שבו תוכלו לנהל את כל הלידים והלקוחות של הארגון שלכם. ניתן להגדיר שרתי Slave מרובים ללא הגבלה בעצם, כך שישלחו את כל המידע שלהם לשרת Master   אחד מרכזי.  על מנת לשמור על אבטחת המידע, עליכם לקבל קוד API מהאתר שלנו - ללא תשלום - ובמייל מיידי . את מפתח החיבור ניתן לקבל כאן: מידע נוסף תוכלו למצוא באתר שלנו  <a href=\"http://www.upicrm.com/apikey\" target=\"_blank\">http://www.upicrm.com/apikey</a> <br />\n"
+"More documentation can be found on: <a href=\"http://www.upicrm.com/docs\" target=\"_blank\">http://www.upicrm.com/docs</a>"
+
+#: admin/upicrm_integrations.php:48
+#@ upicrm
+msgid "Send Leads to Remote UpiCRM MASTER: This UpiCRM is a SLAVE, and is sending new leads to the below listed and confirmed UpiCRM MASTERS:"
+msgstr "שלח לידים \\ פרטי לקוחות חדשים לשרת מאסטר מרוחק: השרת הזה הוא שרת לקוח (Slave ) השולח לידים אל שרת Master מרוחק. "
+
+#: admin/upicrm_integrations.php:49
+#@ upicrm
+msgid "UpiMaster Table"
+msgstr "רשימת שרתי Master  "
+
+#: admin/upicrm_integrations.php:53
+#@ upicrm
+msgid "Receive leads from remote UpiCRM SLAVE: this UpiCRM is a MASTER, and is receiving new leads from the below listed and confirmed UpiCRM SLAVES:"
+msgstr "קבלת לידים \\ פרטי לקוחות משרתים מרוחקים: השרת הזה הוא שרת Master אשר מקבל לידים מהשרתים המרוחקים ברשימה להלן:"
+
+#: admin/upicrm_integrations.php:54
+#@ upicrm
+msgid "UpiSlave Table"
+msgstr "טבלת שרתי Slave"
+
+#: admin/upicrm_integrations.php:64
+#: admin/upicrm_integrations.php:66
+#@ upicrm
+msgid "checkbox_text"
+msgstr ""
+
+#: admin/upicrm_integrations.php:73
+#@ upicrm
+msgid "Add"
+msgstr "הוספה"
+
+#: admin/upicrm_integrations.php:78
+#@ upicrm
+msgid "Update"
+msgstr "עדכון"
+
+#: admin/upicrm_integrations.php:89
+#@ default
+msgid "Insert Domain:"
+msgstr ""
+
+#: admin/upicrm_integrations.php:93
+#@ default
+msgid "API Key:"
+msgstr ""
+
+#: admin/upicrm_integrations.php:116
+#@ upicrm
+msgid "table_title"
+msgstr "כותרת הטבלה"
+
+#: admin/upicrm_integrations.php:139
+#@ upicrm
+msgid "Domain"
+msgstr "שם דומיין "
+
+#: admin/upicrm_integrations.php:142
+#@ upicrm
+msgid "Secrete shared API key"
+msgstr "מפתח סודי משותף"
+
+#: admin/upicrm_dashboard.php:375
+#: admin/upicrm_dashboard.php:404
+#: admin/upicrm_integrations.php:145
+#@ upicrm
+msgid "Status"
+msgstr "סטטוס"
+
+#: admin/upicrm_integrations.php:163
+#@ upicrm
+msgid "verify connection with remote server"
+msgstr "בדוק תקשורת עם שרת מרוחק"
+
+#: admin/upicrm_integrations.php:201
+#@ upicrm
+msgid "Delete this domain?"
+msgstr "למחוק את הדומיין?"
+
+#: admin/upicrm_integrations.php:262
+#@ upicrm
+msgid "Unchecked"
+msgstr "טרם נבדק"
+
+#: admin/upicrm_integrations.php:298
+#: libraries/upicrm_integrations.php:127
+#@ upicrm
+msgid "UpiCRM is not installed / not upgraded on remote server."
+msgstr "הגרסה הנדרשת של UpiCRM  לא מותקנת על השרת המרוחק. אנא עדכנו גרסה בשני השרתים."
+
+#: admin/upicrm_lead_route.php:44
+#@ upicrm
+msgid ""
+"Here you can define rules and conditions to automatically assign leads to designated UpiCRM users or change leads status fields. \n"
+"For example you can defined that If field \"country\" equals \"India\" , then assign this lead to the regional sales manager of India. \n"
+"Another example: if subject contains \"buy free\", then change lead status to \"Spam\"."
+msgstr "כאן תוכלו להגדיר חוקים אוטומטיים לניהול סטטוסים והפניה של לידים למשתמשים. לדוגמא, תוכלו לבחור שכל ליד שמגיע מארץ \\\"ישראל\\\" יופנה מיידית לטיפולו של איש המכירות החרוץ שלכם - יששכר, או שליד המכיל מילים כמו \\\"נעליים בחינם\\\" - מיידית יוגדר בסטטוס \\\"תזכורת לשנת 2027\\\" (או בקיצור - זבלללל!!!) "
+
+#: admin/upicrm_lead_route.php:51
+#@ upicrm
+msgid "You can add as many rules as you'd like, we'll process them in the order they're written, while the last rule will always override the previous rules – so it's highly recommended to plan your logic before you actually define the rules."
+msgstr "אתם יכולים להוסיף כמה תנאים וכללים שאתם רוצים. אנחנו נעבד אותם לפי סדר ההופעה שלהם, כאשר תמיד הכלל האחרון יקבע מה התוצאה שתתקבל. שורה תחתונה - עדיף לתכנן מראש, אבל אפשר תמיד לערוך ולתקן בעתיד. "
+
+#: admin/upicrm_lead_route.php:52
+#@ upicrm
+msgid ""
+"You can add multiple values separated by commas (,). \n"
+"Example: if subject contains buy, free, shop, cheap, new, deals – then change lead status to \"Spam\""
+msgstr "טיפ חשוב: אתם יכולים הוסיף ערכים רבים מופרדים בפסיקים - לדוגמא - אם שדה תוכן מכיל חינם, בזול, הזדמנות, רק היום, לי זה עולה יותר, וכו' - מיידית לשנות את סטטוס הליד לזבל. "
+
+#: admin/upicrm_lead_route.php:54
+#@ upicrm
+msgid "Value are by definition NOT case sensitive, meaning – if you write \"india\", as content, the rule will be processed also in cases where field contains value \"INDIA\"."
+msgstr "בכוונה תחילה לא הקפדנו על אותיות קטנות או גדולות באותיות לועזיות. כלומר - israel ISRAEL  - אלו שתי מילים זהות. "
+
+#: admin/upicrm_lead_route.php:55
+#@ upicrm
+msgid "You can always delete or edit rules in the future… so start slow and add more rules as you go."
+msgstr "אתם יכולים תמיד למחוק, להוסיף או לערוך ולשנות בעתיד - אז תתחילו לאט ותוסיפו בעתיד. "
+
+#: admin/upicrm_lead_route.php:56
+#@ upicrm
+msgid "Checkboxes on forms: if you're using check box fields on you forms, we recommend using \"contains\" operator only."
+msgstr "תיבות בחירה בטפסים: אם אתם משתמשים בצ'ק בוקס בטפסים, אנחנו ממליצים לעשות שימוש באופרטור \\\"מכיל\\\" בלבד. "
+
+#: classes/upicrm_ui_builder.php:30
+#@ upicrm
+msgid "Lead ID on remote server"
+msgstr "מזהה רשומה בשרת מרוחק"
+
+#: classes/upicrm_ui_builder.php:31
+#@ upicrm
+msgid "Transmission Status"
+msgstr "סטטוס השידור"
+
+#: classes/upicrm_ui_builder.php:32
+#@ upicrm
+msgid "Remote server domain"
+msgstr "כתובת דומיין שרת מרוחק"
+
+#: classes/upicrm_ui_builder.php:83
+#@ upicrm
+msgid "Send lead again to UpiCRM master"
+msgstr "שדר את הפרטים שוב"
+
+#: libraries/upicrm_integrations.php:44
+#: libraries/upicrm_integrations.php:156
+#@ upicrm
+msgid "Connected + Last checked"
+msgstr "מחובר+ תאריך בדיקה "
+
+#: libraries/upicrm_integrations.php:47
+#@ upicrm
+msgid "Remote UpiCRM installed: V"
+msgstr "גרסה מותקנת בשרת מרוחק: "
+
+#: libraries/upicrm_integrations.php:50
+#: libraries/upicrm_integrations.php:91
+#@ upicrm
+msgid "Incorrect API Key"
+msgstr "מפתח משותף שגוי"
+
+#: libraries/upicrm_integrations.php:66
+#: libraries/upicrm_integrations.php:136
+#@ upicrm
+msgid "http 404 – can't find resource"
+msgstr "404 - משאב לא נמצא"
+
+#: admin/upicrm_admin.php:84
+#: admin/upicrm_admin.php:233
+#@ upicrm
+msgid "Import & Export"
+msgstr ""
+
+#: admin/upicrm_admin_import_export.php:22
+#@ upicrm
+msgid ""
+"Import data into UpiCRM :<br />\n"
+"You can easily upload / import data into UpiCRM. In order to upload data into UpiCRM please do the following:"
+msgstr "ייבוא נתונים : בקלות יחסית ניתן לייבא נתונים חדשים (לידים חדשים) לתוך המערכת. להלן פירוט השלבים:"
+
+#: admin/upicrm_admin_import_export.php:25
+#@ upicrm
+msgid "Download this Excel file"
+msgstr "הורידו את קובץ האקסל להלן"
+
+#: admin/upicrm_admin_import_export.php:25
+#@ upicrm
+msgid "and open it in Excel / Google docs"
+msgstr "פיתחו את הקובץ באקסל או בגוגל דוקס"
+
+#: admin/upicrm_admin_import_export.php:27
+#@ upicrm
+msgid ""
+"2. Locate the data into the right columns inside the excel file. Usually this should be an easy     \n"
+"    operation using select / copy on the \"other\" file, and then \"paste\" into the UpiCRM Excel   \n"
+"    file."
+msgstr "2. אכלסו את השדות המתאימים בתוך עמודות האקסל כפי שמוצג בקובץ שהורדתם, כאשר הדרך הקלה ביותר לבצע את זה היא באמצעות העתקה והדבקה. "
+
+#: admin/upicrm_admin_import_export.php:31
+#@ upicrm
+msgid ""
+"3. Do NOT change the structure / format of the excel file, just copy the text data into the right \n"
+"    columns, save and exit the file."
+msgstr "3. אל תשנו את פורמט הקובץ או את שמות העבודות. פשוט העבירו את המידע לתוך העמודות הקיימות בקובץ שהורדתם, שמרו וסגרו את הקובץ. "
+
+#: admin/upicrm_admin_import_export.php:34
+#@ upicrm
+msgid "4. Upload the file into UpiCRM and you're done!"
+msgstr "4. העלו את הקובץ למערכת ולחצו על \\\"ייבוא נתונים\\\", וזהו !"
+
+#: admin/upicrm_admin_import_export.php:36
+#@ upicrm
+msgid ""
+"5. Note: any automatic lead management rules you may have – will be processed during the  \n"
+"    import process. "
+msgstr "5. הערה חשובה: כל כלל ניהול לידים אוטומטי שהגדרתם - יעובד עם הזנת הרשומות החדשים לתוך המערכת. "
+
+#: admin/upicrm_admin_import_export.php:41
+#@ upicrm
+msgid "Export all leads data to Excel "
+msgstr "ייצוא כל הנתונים לקובץ אקסל"
+
+#: admin/upicrm_admin_import_export.php:45
+#@ upicrm
+msgid "import all existing forms plugins data into UpiCRM"
+msgstr "ייבוא מידע מידע קיים מבסיסי המידע של הטפסים השמורים באתר"
+
+#: admin/upicrm_admin_import_export.php:51
+#@ upicrm
+msgid "Import New data into UpiCRM :"
+msgstr "ייבוא רשומות חדשות:"
+
+#: admin/upicrm_admin_import_export.php:53
+#@ upicrm
+msgid "Download UpiCRM Sample Excel File "
+msgstr "הורידו קובץ אקסל ע מבנה נתונים לדוגמא"
+
+#: admin/upicrm_admin_import_export.php:58
+#@ upicrm
+msgid "Upload & Import"
+msgstr "העלן מידע ובצעו ייבוא"
+
+#: admin/upicrm_admin_import_export.php:60
+#@ upicrm
+msgid "Upload"
+msgstr "העלו מידע"
+
+#: admin/upicrm_admin_import_export.php:63
+#@ upicrm
+msgid "Example: import data from Excel:"
+msgstr "דוגמא: מבנה קובץ האקסל "
+
+#: admin/upicrm_admin_import_export.php:193
+#@ upicrm
+msgid "Success!"
+msgstr "הצלחה!"
+
+#: admin/upicrm_admin_import_export.php:195
+#@ upicrm
+msgid "new records imported into UpiCRM."
+msgstr "רשומות חדשות הוזנו  למערכת"
+
+#: admin/upicrm_admin.php:72
+#: admin/upicrm_admin.php:126
+#@ upicrm
+msgid "Leads Management"
+msgstr "ניהול לידים "
+
+#: admin/upicrm_admin_import_export.php:48
+#@ upicrm
+msgid "Note: this will import \"old\" data from the forms you're currently using, if they are configured to keep entries in a database. This will NOT import new data from an external / new source. "
+msgstr "חשוב: הפעולה הזו תייבא לידים מתוך בסיס הנתנים של הטפסים הקיימים באתר, במידה והטפסים באתר אכן שוומרים את ההזנות בבסיס נתונים קיים. הפעולה הזו לא נועדה לייבוא מידע ממערכות חיצוניות, לשם כך ניתן לייבא נתונים בפורמט אקסל. "
+
+#: admin/upicrm_admin_import_export.php:206
+#@ upicrm
+msgid "Error occurred, could not import data"
+msgstr "קרתה תקלה, לא הצלחנו לייבא את המידע"
+
+#: admin/upicrm_admin_users.php:43
+#@ upicrm
+msgid "1. Add a new WordPress \"subscriber\" users<br />"
+msgstr "1. הוסף משתמש לוורדפרס, הגדר את המשתמש החדש כ \\\"מנוי\\\". "
+
+#: admin/upicrm_admin_users.php:44
+#@ upicrm
+msgid "2. Add the new user to UpiCRM:<br />"
+msgstr "2. הוסיפו את המשתמש החדש למערכת"
+
+#: admin/upicrm_admin_users.php:45
+#@ upicrm
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; a.  Choose the new user (drop down list)<br />"
+msgstr "א. בחרו את המשתמש מתוך הרשימה הנגללת:"
+
+#: admin/upicrm_admin_users.php:46
+#@ upicrm
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; b.  Choose the manager (drop down list)<br />"
+msgstr "ב. בחרו את המנהל של המשתמש החדש מתו הרשימה הנגללת"
+
+#: admin/upicrm_admin_users.php:47
+#@ upicrm
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; c.  Add role (free text / label)<br />"
+msgstr "ג. הקלידו את תפקידו של המשתמש החדש"
+
+#: admin/upicrm_admin_users.php:48
+#@ upicrm
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; d.  Choose UpiUser/UpiAdmin <br />"
+msgstr "ד. בחרו האם זהו משתמש \\\"רגיל\\\" או מנהל מערכת "
+
+#: admin/upicrm_admin_users.php:49
+#@ upicrm
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; e.  Choose – if a user can re-assign eads back to the manager ? yes/no. <br />"
+msgstr "ה. בחרו האם המשתמש יכול להפנות לידים בחזרה אל המנהלים שלו "
+
+#: admin/upicrm_admin_users.php:50
+#@ upicrm
+msgid "&nbsp;&nbsp;&nbsp;&nbsp; f.  Choose: will a manager receive notifications on the user status updates  ? yes/no. <br /> <br />"
+msgstr "ו. בחרו - האם מנהלי המשתמש יקבלו עדכונים במייל על שינויי סטטוסי "
+
+#: admin/upicrm_admin_users.php:51
+#@ upicrm
+msgid " Note: you can always click the \"edit\" icon and change the user's role/position/permissions."
+msgstr "חשוב: אתם יכולים תמיד בעתיד לשנות את ההגדרות על ידי לחיצה על כפתור העריכה."
+
+#: admin/upicrm_admin_users.php:56
+#@ upicrm
+msgid "Add UserUpdate User"
+msgstr "הוסף משתמש עדכן משתמש"
+
+#: admin/upicrm_admin_users.php:60
+#@ upicrm
+msgid "User"
+msgstr "משתמש "
+
+#: admin/upicrm_admin_users.php:64
+#@ upicrm
+msgid "Reports to"
+msgstr "מדווח \\ כפוף ל "
+
+#: admin/upicrm_admin_users.php:68
+#@ upicrm
+msgid "Role"
+msgstr "תפקיד "
+
+#: admin/upicrm_admin_users.php:83
+#: admin/upicrm_admin_users.php:137
+#@ upicrm
+msgid "Can Re-assign leads back to manager"
+msgstr "יכול להפנות לידים בחזרה למנהל"
+
+#: admin/upicrm_admin_users.php:88
+#: admin/upicrm_admin_users.php:138
+#@ upicrm
+msgid "Update manager on status changes"
+msgstr "עדכן מנהל על שינויי סטטוסים"
+
+#: admin/upicrm_admin_users.php:93
+#@ upicrm
+msgid "Add UpiCRM UserUpdate"
+msgstr "הוסף משתמש עדכן"
+
+#: admin/upicrm_admin_users.php:97
+#@ upicrm
+msgid "Global User Hierarchy"
+msgstr "הירארכיית משתמשים "
+
+#: admin/upicrm_admin_users.php:106
+#@ upicrm
+msgid "Delete this user from UpiCRM?"
+msgstr "למחוק את המתשמש? "
+
+#: admin/upicrm_admin_users.php:170
+#@ upicrm
+msgid "User Added Successfully"
+msgstr "משתמש נוסף בהצלחה"
+
+#: admin/upicrm_admin_users.php:179
+#@ upicrm
+msgid "Error: User already defined, please edit existing user"
+msgstr "תקלה: המשתמש כבר מופיע, אנא ערכו את המשתמש הקיים"
+
+#: admin/upicrm_admin.php:78
+#: admin/upicrm_admin.php:114
+#@ upicrm
+msgid "Data Types & Fields"
+msgstr "ניהול שדות מידע"
+
+#: admin/upicrm_admin.php:83
+#: admin/upicrm_admin.php:209
+#@ upicrm
+msgid "Lead Aggregation"
+msgstr "איסוף לידים משרתים מרוחקים"
+
+#: admin/upicrm_admin_lists.php:32
+#@ upicrm
+msgid "Leads change successfully"
+msgstr "השינויים נשמרו בהצלחה"
+
+#: admin/upicrm_admin_lists.php:99
+#: admin/upicrm_admin_lists.php:498
+#@ upicrm
+msgid "Delete all"
+msgstr "מחק הכל"
+
+#: admin/upicrm_admin_lists.php:102
+#: admin/upicrm_admin_lists.php:501
+#@ upicrm
+msgid "Assigned all leads to"
+msgstr "שייך את כל הלידים אל"
+
+#: admin/upicrm_admin_lists.php:105
+#: admin/upicrm_admin_lists.php:504
+#@ upicrm
+msgid "Change all leads statuses to"
+msgstr "שנה סטטוס של כל הלידים ל "
+
+#: admin/upicrm_admin_lists.php:107
+#: admin/upicrm_admin_lists.php:506
+#@ upicrm
+msgid "Send"
+msgstr "בצע"
+
+#: admin/upicrm_admin_lists.php:159
+#@ upicrm
+msgid "Select all"
+msgstr "בחר הכל"
+
+#: admin/upicrm_admin_lists.php:418
+#@ upicrm
+msgid "Remove all selected leads?"
+msgstr "למחוק את כל הלידים שנבחרו? "
+
+#: admin/upicrm_admin_users.php:31
+#@ upicrm
+msgid ""
+"UpiCRM User hierarchy: <br />\n"
+"UpiCRM is designed to work in a multi-user / global organization environment, with up to 5 tiers of users, per your choice / definition.\n"
+"<br />\n"
+"For Example: you can define a single \"Global Sales Manager\" , three \"Regional Sales Managers\", under each of them - local \"Sales representatives\", that are working with \"External distributors\".\n"
+"<br />\n"
+"Per every user you can define:<br />\n"
+"1.      Permission to re-assign leads back to the manager in charge.<br />\n"
+"2.      Will the manager receive status updates per every status changes by email. <br />\n"
+"\n"
+"All users, when connected to the UpiCRM dashboard, will see not only the leads assigned to them, but also the aggregation of leads assigned to the users that are reporting to them.\n"
+"<br /><br />\n"
+"In order add users to UpiCRM: <br />"
+msgstr ""
+"היררכית משתמשים: UpiCRM  מיועד לפעול בסביבת ארגון מרובה משתמשים עם עד 5 רמות שונות של משתמשים, לפי הגדרתך.\n"
+"לדוגמא: ניתן להגדיר משתמש נבחר כמנהל מכירות גלובלי, שלושה מנהלי מכירות אזורים, תחת כל אחד מהם – נציגי מכירות מקומיים, אשר עובדים  עם מפיצים חיצוניים . עבור כל משתמש ניתן להגדיר הרשאה לשייך מחדש כל לידי בחזרה למנהל האחראי, והאם המנהל יקבל עדכוני סטטוס לכל כל שינויי סטטוס בדוא\\\"ל.  כאשר הוא מחובר ללוח הבקרה של  UpiCRM, יראו כל המשתמשים לא רק את לידים שהוקצו להם, אלא גם את הלידים של המשתמשים שכפופים להם בהירארכיה. על מנת להוסיף משתמשים:\n"
+"בחר משתמש, הגדר למי הוא כפוף, רשום תווית המתארת את התפקיד, ובחר האם המנהל יקבל עדכונים, והאם המשתמש רשאי להפנות ליד בחזרה אל המנהל.\n"
+
+#: admin/upicrm_dashboard.php:197
+#@ upicrm
+msgid "Hello"
+msgstr "שלום"
+
+#: admin/upicrm_dashboard.php:198
+#@ upicrm
+msgid "You Have a total of"
+msgstr "יש לך סך הכל "
+
+#: admin/upicrm_dashboard.php:200
+#@ upicrm
+msgid "You are reporting to:"
+msgstr "המנהל שלך הוא:"
+
+#: admin/upicrm_dashboard.php:205
+#@ upicrm
+msgid "Reporting to you:"
+msgstr "מדווחים לך:"
+
+#: admin/upicrm_dashboard.php:221
+#@ upicrm
+msgid "Latest New Leads:"
+msgstr "לידים חדשים:"
+
+#: admin/upicrm_dashboard.php:249
+#@ upicrm
+msgid "Manage Leads"
+msgstr "נהל את הלידים שלך"
+
+#: admin/upicrm_dashboard.php:250
+#@ upicrm
+msgid "Export to Excel"
+msgstr "ייצוא לאקסל"
+
+#: admin/upicrm_dashboard.php:345
+#: admin/upicrm_dashboard.php:369
+#@ upicrm
+msgid "Leads / Status"
+msgstr "לידים לפי סטטוסים"
+
+#: admin/upicrm_dashboard.php:357
+#: admin/upicrm_dashboard.php:398
+#@ upicrm
+msgid "Leads / Assigned to"
+msgstr "לידים לפי שיוך"
+
+#: admin/upicrm_dashboard.php:376
+#: admin/upicrm_dashboard.php:405
+#: admin/upicrm_dashboard.php:434
+#: admin/upicrm_dashboard.php:462
+#: admin/upicrm_dashboard.php:490
+#@ upicrm
+msgid "Number"
+msgstr "מספר"
+
+#: admin/upicrm_dashboard.php:427
+#@ upicrm
+msgid "Leads / Country"
+msgstr "לידים לפי מדינה"
+
+#: admin/upicrm_dashboard.php:433
+#@ upicrm
+msgid "Contry"
+msgstr "ארץ"
+
+#: admin/upicrm_dashboard.php:455
+#@ upicrm
+msgid "Leads / Product"
+msgstr "לידים לפי מוצרים"
+
+#: admin/upicrm_dashboard.php:461
+#@ upicrm
+msgid "Product"
+msgstr "מוצרים"
+
+#: admin/upicrm_dashboard.php:483
+#@ upicrm
+msgid "Leads / Received From"
+msgstr "לידים לפי מקור "
+
+#: admin/upicrm_dashboard.php:489
+#@ upicrm
+msgid "Received From"
+msgstr "מקור הליד"
+
+#: admin/upicrm_dashboard.php:512
+#@ upicrm
+msgid "Leads / Contry"
+msgstr "לידים לפי ארץ"
+
+#: admin/upicrm_dashboard.php:523
+#@ upicrm
+msgid "Latest Leads received:"
+msgstr "לידים חדשים:"
+
+#: admin/upicrm_settings.php:90
+#@ upicrm
+msgid "In this screen you can perform the following actions:"
+msgstr "במסך הזה ניתן לבצע את הפעולות הבאות:"
+
+#: admin/upicrm_settings.php:91
+#@ upicrm
+msgid "1. Map all your site's forms and fields into a single, central and manageable data structure. Please use the forms fields mapping wizard below in order to map all you site's forms into UpiCRM leads table."
+msgstr "1. מיפוי כל השדות של כל הטפסים באתר שלכם לבסיס מידע אחוד וסטנדרטי. אנא השתמשו בממשק מיפוי השדות למטה על מנת למפות את כל השדות של הטפסים באתר למבנה הנתונים האחיד של UpiCRM ."
+
+#: admin/upicrm_settings.php:92
+#@ upicrm
+msgid "2. Add / Edit additional data fields for UpiCRM database: UpiCRM default set of fields can be easily extended to support your unique and specific needs. Just add ANY fields you may need – and map your forms into the new field/s you have defined. "
+msgstr "2. הוספה או עריכה של שדות :  ניתן להרחיב את מבנה הנתונים הקיים ולהוסיף שדות נוספים לפי הצורך. "
+
+#: admin/upicrm_settings.php:93
+#@ upicrm
+msgid "3. Add / edit additional status fields : UpiCRM default set of status fields can be easily extended. Just add ANY status  you may need – and it will become available for you to manage."
+msgstr "3. 2. הוספה או עריכה של סטטוסים:  ניתן להרחיב את מבנה הנתונים הקיים ולהוסיף סטטוסים נוספים לפי הצורך. "
+
+#: admin/upicrm_settings.php:100
+#@ upicrm
+msgid "Reset configuration"
+msgstr "איפוס כל ההגדרות"
+
+#: admin/upicrm_settings.php:102
+#@ upicrm
+msgid "this option will reset all configuration, but will not delete data from UpiCRM."
+msgstr "בחירה באפשרות זו תאפס את כל ההגדרות , אבל לא תמחק מידע שנצבר. "
+
+#: admin/upicrm_settings.php:106
+#@ upicrm
+msgid "Delete All data"
+msgstr "מחיקת כל המידע שנצבר"
+
+#: admin/upicrm_settings.php:108
+#@ upicrm
+msgid "this option will delete all data from UpiCRM, but will not delete the configuration."
+msgstr "אפשרות זו תבצע מחיקה של כל המידע שנצבר, אבל לא תמחוק את ההגדרות שביצעתם."
+
+#: admin/upicrm_settings.php:153
+#@ upicrm
+msgid "Add New Field"
+msgstr "הוספת שדה"
+
+#. translators: plugin header field 'Version'
+#: upicrm.php:0
+#@ upicrm
+msgid "1.9.8.0"
+msgstr "1.9.80"
+

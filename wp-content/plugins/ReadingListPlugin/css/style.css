@@ -1,0 +1,134 @@
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+.clearfix:after {
+    clear: both;
+}
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.clearfix {
+    *zoom: 1;
+}
+.rlist.clearfix {
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #ccc
+}
+.clearfix h3 {
+	font-weight: normal;
+	padding: 0;
+	margin: 0 !important;
+	font-size: 30px;
+}
+.block-left {
+	float: left;
+	width: 18%;
+}
+	
+	.block-left strong {
+		font-size: 12px;
+		color: #666;
+		font-family: Georgia;
+		font-style: italic;
+		font-weight: normal;
+		display: block;
+		line-height: 22px;
+	}
+	.block-left span {
+		display: block;
+		margin: 6px 0;
+	}
+	.block-left img {
+		max-width: 100%;
+		height: auto;
+	}
+.block-right {
+	float: right;
+	width: 80%;
+}
+	.block-right header {
+		
+	}
+		.block-right header span {
+			font-size: 12px;
+			display: block;
+		}
+		.block-right .stars {
+			background: url(../images/stars.jpg) -10px -5px;
+			height: 25px;
+			width: 100px;
+		}
+			.block-right .stars1 {
+				background-position: -10px -50px;
+			}
+			.block-right .stars2 {
+				background-position: -10px -92px;
+			}
+			.block-right .stars3 {
+				background-position: -10px -138px;
+			}
+			.block-right .stars4 {
+				background-position: -10px -182px;
+			}
+			.block-right .stars5 {
+				background-position: -10px -226px;
+			}
+		.block-right header i {
+			float: right;
+			background: #fc4;
+			color: #8B6013;
+			border-radius: 3px;
+			padding: 0 3px;
+			box-shadow: 0 0 9px #666;
+			margin-right: 5px;
+			font-size: 13px;
+		}
+	
+	.block-right article {}
+
+	.rgrid {
+		width: 30%;
+		display: inline-block !important;
+		vertical-align: top;
+		text-align: center;
+		margin: 0 8px 15px;
+		background: #eee;
+		box-shadow: 0 0 7px #999;
+		position: relative;
+	}
+		.rgrid span {}
+			.rgrid span img {
+				height: 295px;
+				width: 100%;
+			}
+		.rgrid h3 {
+			position: absolute;
+			bottom: 10px;
+			background: rgba(51, 51, 51, 0.81);
+			display: block;
+			width: 100%;
+			font-size: 18px;
+			font-weight: normal;
+			color: #eee;
+			font-family: Georgia;
+			padding: 10px 0;
+		}
+		.rgrid strong {}
+
+	#showgridview {
+		/*display: none;*/
+		text-align: center;
+	}
+
+.cycle-slideshow {}	
+	.cycle-slideshow img {
+		width: 100%;
+	}
+
+#alt-caption {
+	text-align: center;
+}

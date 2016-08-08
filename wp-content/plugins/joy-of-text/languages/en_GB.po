@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Joy Of Text Lite\n"
+"POT-Creation-Date: 2015-04-22 19:24-0000\n"
+"PO-Revision-Date: 2015-04-22 19:24-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-jot-plugin-admin.php:47
+msgid "Joy Of Text Plugin Settings"
+msgstr ""
+
+#: classes/class-jot-plugin-admin.php:47
+msgid "JOT Settings"
+msgstr ""
+
+#: classes/class-jot-plugin-admin.php:112
+msgid "Please select your \"from\" number and save."
+msgstr ""
+
+#: classes/class-jot-plugin-admin.php:121
+msgid "Upgrade to the Joy Of Text Pro Version"
+msgstr ""
+
+#: classes/class-jot-plugin-admin.php:121
+msgid "For feedback and support, please send an email to"
+msgstr ""
+
+#: classes/class-jot-plugin-admin.php:173
+msgid "Settings saved."
+msgstr ""
+
+#: classes/class-jot-plugin-messenger.php:108
+msgid "Please select and configure an SMS provider."
+msgstr ""
+
+#: classes/class-jot-plugin-messenger.php:111
+msgid "Please select a 'from' number on the SMS provider tab."
+msgstr ""
+
+#: classes/class-jot-plugin-messenger.php:114
+msgid "Please enter a message."
+msgstr ""
+
+#: classes/class-jot-plugin-messenger.php:117
+msgid "Please select your message recipients."
+msgstr ""
+
+#: classes/class-jot-plugin-messenger.php:120
+msgid "Error inserting call message into database"
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:124
+#: classes/class-jot-plugin-options.php:213
+msgid "No group name was entered. Please try again."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:127
+#: classes/class-jot-plugin-options.php:216
+msgid "No group description was entered. Please try again."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:130
+#: classes/class-jot-plugin-options.php:219
+msgid "A group with this name already exists. Please try again."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:133
+#: classes/class-jot-plugin-options.php:222
+#: classes/class-jot-plugin-options.php:298
+#: classes/class-jot-plugin-options.php:478
+#: classes/class-jot-plugin-options.php:561
+#: classes/class-jot-plugin-options.php:606
+msgid "You are not an Admin user."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:210
+#: classes/class-jot-plugin-options.php:292
+msgid "Group details saved successfully"
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:295
+msgid "A database error occurred"
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:376
+msgid "Thank you for subscribing to the group."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:379
+msgid "An error occurred subscribing to the group."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:382
+msgid "The phone number is not numeric. Please try again"
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:385
+msgid "This phone number is already subscribed to this group."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:388
+msgid "Please enter your name."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:463
+msgid "New member added successfully."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:466
+#: classes/class-jot-plugin-options.php:549
+msgid "Name field is blank. Please enter a name"
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:470
+#: classes/class-jot-plugin-options.php:553
+msgid "The phone number is not numeric."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:474
+#: classes/class-jot-plugin-options.php:557
+msgid "Phone number already exists in this group"
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:546
+msgid "Details updated successfully."
+msgstr ""
+
+#: classes/class-jot-plugin-options.php:603
+msgid "Member deleted successfully."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:99
+msgid "SMS Provider"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:100
+msgid "Save SMS Provider settings"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:103
+msgid "Messages"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:104
+msgid "Send Messages"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:107
+msgid "Group Manager"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:108
+msgid "Add Group"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:128
+msgid "SMS Providers"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:133
+msgid "Select your SMS provider."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:141
+msgid "Recipients"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:146
+msgid ""
+"Select the recipients you wish to message. Click the Group Name to select "
+"all its members"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:149
+msgid "Enter your message"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:154
+msgid "Enter your SMS message in here."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:159
+msgid "Message suffix"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:161
+msgid "e.g."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:164
+msgid "Suffix to append to the end of each message."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:167
+msgid "Send message as"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:173
+msgid "Send message as an SMS or as a voice call."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:179
+msgid "Group name"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:185
+#: classes/class-jot-plugin-settings.php:268
+msgid "Enter your group name."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:188
+msgid "Group description"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:194
+#: classes/class-jot-plugin-settings.php:277
+msgid "Enter your group description."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:198
+msgid "Text for description field"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:200
+msgid "Please subscribe for SMS updates "
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:206
+msgid "Text for name field"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:208
+msgid "Enter your name : "
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:214
+msgid "Text for phone number field"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:216
+msgid "Enter your phone number :"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:222
+msgid "Send welcome message"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:223
+msgid "Send welcome message ?"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:228
+msgid ""
+"Send each new subscriber a welcome text when they first subscribe. Remember "
+"you will be charged to send this message."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:231
+msgid "Enter welcome message"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:233
+msgid "Thank you for subscribing to our group."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:236
+msgid "Enter the text to for the welcome message."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:239
+msgid "HTML for your invite form"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:244
+msgid ""
+"Copy this HTML and place it on your site to display the invitation form."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:247
+msgid "Invite form shortcode"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:252
+msgid "Alternatively, use this shortcode to create the invitation form."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:262
+msgid "Enter the group name"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:271
+msgid "Enter the group description"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:303
+msgid "Select an SMS provider"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:431
+#: classes/class-jot-plugin-settings.php:439
+msgid "Group Name"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:432
+#: classes/class-jot-plugin-settings.php:440
+msgid "Group Desc."
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:433
+#: classes/class-jot-plugin-settings.php:441
+msgid "Members"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:434
+#: classes/class-jot-plugin-settings.php:442
+msgid "Created"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:462
+msgid "<< Previous"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:463
+msgid "Next >>"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:552
+msgid "Save group details"
+msgstr ""
+
+#: classes/class-jot-plugin-settings.php:744
+msgid "Save invite details"
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:50
+msgid "Select a number"
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:55
+#, php-format
+msgid "A Twilio error occurred. \"%s %s\". Check your Twilio credentials."
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:101
+msgid "SMS message sent successfully"
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:157
+msgid "Voice call message sent successfully"
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:198
+msgid "Twilio Account SID"
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:204
+msgid "Enter your Account SID number that you received from Twilio."
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:207
+msgid "Twilio Auth Token"
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:213
+msgid "Enter your Auth token that you received from Twilio."
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:216
+msgid "Phone Numbers"
+msgstr ""
+
+#: classes/smsproviders/class-jot-provider-twilio.php:221
+msgid "Select the Twilio number you wish to send your SMS messages from."
+msgstr ""
+
+#: joy-of-text.php:168 joy-of-text.php:175
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: joy-of-text.php:235 joy-of-text.php:236
+msgid "My customer group"
+msgstr ""
+
+#: joy-of-text.php:313
+msgid "Saving invite details...."
+msgstr ""
+
+#: joy-of-text.php:314
+msgid "Saving group details"
+msgstr ""
+
+#: joy-of-text.php:315
+msgid "Subscribing you to the group...."
+msgstr ""
+
+#: joy-of-text.php:316
+msgid "Sending messages...."
+msgstr ""
+
+#: joy-of-text.php:317
+msgid "Message Sent at"
+msgstr ""
+
+#: joy-of-text.php:318
+msgid "Adding group...."
+msgstr ""
+
+#: joy-of-text.php:319
+msgid "Select message recipients"
+msgstr ""
+
+#: joy-of-text.php:320
+msgid "Number"
+msgstr ""
+
+#: joy-of-text.php:321
+msgid "Status Message"
+msgstr ""
+
+#: joy-of-text.php:322
+msgid "Processing complete."
+msgstr ""
