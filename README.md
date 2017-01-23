@@ -1,8 +1,9 @@
-# Wordpress Online prodavnica muzičke opreme
+# Wordpress Online music shop
 
-Projekat iz predmeta internet marketing, pored implementacije Online prodavnice, implementacija SEO, Google analytics
-Neke od slika iz aplikacije : 
-*Napomena - skinuto sa Cloud9 platforme, potrebna modifikacija parametara za pristup
+Project app from Internet marketing subject (Faculty of Organizational sciences). SEO, Google analytics implementation.
+
+Screenshots:
+*Note - downloaded from Cloud9 platform, needs modification for input parameters
 
 ![alt tag](1.png)
 ![alt tag](2.png)
